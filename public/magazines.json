@@ -1,0 +1,4906 @@
+[
+  {
+    "name": "Le Monde",
+    "taglink": "Le%20Monde/"
+  },
+  {
+    "name": "Gael",
+    "taglink": "Gael/"
+  },
+  {
+    "name": "Mieux Réussir aux Courses",
+    "taglink": "Mieux%20R%C3%A9ussir%20aux%20Courses/"
+  },
+  {
+    "name": "Objectif Tiercé",
+    "taglink": "Objectif%20Tierc%C3%A9/"
+  },
+  {
+    "name": "Le Turf",
+    "taglink": "Le%20Turf/"
+  },
+  {
+    "name": "Femmes d’Aujourd’hui",
+    "taglink": "Femmes%20d%E2%80%99Aujourd%E2%80%99hui/"
+  },
+  {
+    "name": "Ouest France",
+    "taglink": "Ouest%20France/"
+  },
+  {
+    "name": "L’Équipe",
+    "taglink": "L%E2%80%99%C3%89quipe/"
+  },
+  {
+    "name": "Elektor",
+    "taglink": "Elektor/"
+  },
+  {
+    "name": "Hackable",
+    "taglink": "Hackable/"
+  },
+  {
+    "name": "Maxi",
+    "taglink": "Maxi/"
+  },
+  {
+    "name": "Nous Deux",
+    "taglink": "Nous%20Deux/"
+  },
+  {
+    "name": "Midi Olympique",
+    "taglink": "Midi%20Olympique/"
+  },
+  {
+    "name": "Télé 7",
+    "taglink": "T%C3%A9l%C3%A9%207/"
+  },
+  {
+    "name": "Télécâble Sat Hebdo",
+    "taglink": "T%C3%A9l%C3%A9c%C3%A2ble%20Sat%20Hebdo/"
+  },
+  {
+    "name": "Télé Star",
+    "taglink": "T%C3%A9l%C3%A9%20Star/"
+  },
+  {
+    "name": "Télé Poche",
+    "taglink": "T%C3%A9l%C3%A9%20Poche/"
+  },
+  {
+    "name": "Le Parisien",
+    "taglink": "Le%20Parisien/"
+  },
+  {
+    "name": "Le Figaro",
+    "taglink": "Le%20Figaro/"
+  },
+  {
+    "name": "Libération",
+    "taglink": "Lib%C3%A9ration/"
+  },
+  {
+    "name": "Le Temps",
+    "taglink": "Le%20Temps/"
+  },
+  {
+    "name": "La Croix",
+    "taglink": "La%20Croix/"
+  },
+  {
+    "name": "L’Opinion",
+    "taglink": "L%E2%80%99Opinion/"
+  },
+  {
+    "name": "L’Humanité",
+    "taglink": "L%E2%80%99Humanit%C3%A9/"
+  },
+  {
+    "name": "Aujourd’hui en France",
+    "taglink": "Aujourd%E2%80%99hui%20en%20France/"
+  },
+  {
+    "name": "Flat 6",
+    "taglink": "Flat%206/"
+  },
+  {
+    "name": "Pour la Science",
+    "taglink": "Pour%20la%20Science/"
+  },
+  {
+    "name": "Science Magazine",
+    "taglink": "Science%20Magazine/"
+  },
+  {
+    "name": "Terre Sauvage",
+    "taglink": "Terre%20Sauvage/"
+  },
+  {
+    "name": "Animan",
+    "taglink": "Animan/"
+  },
+  {
+    "name": "France Patrimoine",
+    "taglink": "France%20Patrimoine/"
+  },
+  {
+    "name": "Le Cycle",
+    "taglink": "Le%20Cycle/"
+  },
+  {
+    "name": "Rustica",
+    "taglink": "Rustica/"
+  },
+  {
+    "name": "Le Journal du Dimanche",
+    "taglink": "Le%20Journal%20du%20Dimanche/"
+  },
+  {
+    "name": "So Foot",
+    "taglink": "So%20Foot/"
+  },
+  {
+    "name": "So Foot Club",
+    "taglink": "So%20Foot%20Club/"
+  },
+  {
+    "name": "Secret d'enquête",
+    "taglink": "Secret%20d%27enqu%C3%AAte/"
+  },
+  {
+    "name": "Icon Life",
+    "taglink": "Icon%20Life/"
+  },
+  {
+    "name": "Icon Life Sport",
+    "taglink": "Icon%20Life%20Sport/"
+  },
+  {
+    "name": "Côté France",
+    "taglink": "C%C3%B4t%C3%A9%20France/"
+  },
+  {
+    "name": "Côté France Destins brisés",
+    "taglink": "C%C3%B4t%C3%A9%20France%20Destins%20bris%C3%A9s/"
+  },
+  {
+    "name": "Vu",
+    "taglink": "Vu/"
+  },
+  {
+    "name": "Vécu",
+    "taglink": "V%C3%A9cu/"
+  },
+  {
+    "name": "Oula",
+    "taglink": "Oula/"
+  },
+  {
+    "name": "Éternel Collection",
+    "taglink": "%C3%89ternel%20Collection/"
+  },
+  {
+    "name": "Enquêteur",
+    "taglink": "Enqu%C3%AAteur/"
+  },
+  {
+    "name": "France Hebdomadaire",
+    "taglink": "France%20Hebdomadaire/"
+  },
+  {
+    "name": "Stars Glam",
+    "taglink": "Stars%20Glam/"
+  },
+  {
+    "name": "Femme Actuelle",
+    "taglink": "Femme%20Actuelle/"
+  },
+  {
+    "name": "Version Femina",
+    "taglink": "Version%20Femina/"
+  },
+  {
+    "name": "Ouest France Dimanche",
+    "taglink": "Ouest%20France%20Dimanche/"
+  },
+  {
+    "name": "Le Carnet de La Fringale Culturelle",
+    "taglink": "Le%20Carnet%20de%20La%20Fringale%20Culturelle/"
+  },
+  {
+    "name": "Tribune de Lyon",
+    "taglink": "Tribune%20de%20Lyon/"
+  },
+  {
+    "name": "Diverto",
+    "taglink": "Diverto/"
+  },
+  {
+    "name": "Femina",
+    "taglink": "Femina/"
+  },
+  {
+    "name": "Le Matin Dimanche",
+    "taglink": "Le%20Matin%20Dimanche/"
+  },
+  {
+    "name": "Guide TV",
+    "taglink": "Guide%20TV/"
+  },
+  {
+    "name": "Pirate Informatique",
+    "taglink": "Pirate%20Informatique/"
+  },
+  {
+    "name": "Science & Vie",
+    "taglink": "Science%20%26%20Vie/"
+  },
+  {
+    "name": "Investir",
+    "taglink": "Investir/"
+  },
+  {
+    "name": "Ça M’intéresse",
+    "taglink": "%C3%87a%20M%E2%80%99int%C3%A9resse/"
+  },
+  {
+    "name": "Santé",
+    "taglink": "Sant%C3%A9/"
+  },
+  {
+    "name": "Top Santé",
+    "taglink": "Top%20Sant%C3%A9/"
+  },
+  {
+    "name": "Loco-Revue",
+    "taglink": "Loco-Revue/"
+  },
+  {
+    "name": "Sport Auto",
+    "taglink": "Sport%20Auto/"
+  },
+  {
+    "name": "IT for Business",
+    "taglink": "IT%20for%20Business/"
+  },
+  {
+    "name": "EcoRéseau Business",
+    "taglink": "EcoR%C3%A9seau%20Business/"
+  },
+  {
+    "name": "Jazz",
+    "taglink": "Jazz/"
+  },
+  {
+    "name": "Maisons Côté Sud",
+    "taglink": "Maisons%20C%C3%B4t%C3%A9%20Sud/"
+  },
+  {
+    "name": "Maisons Côté Ouest",
+    "taglink": "Maisons%20C%C3%B4t%C3%A9%20Ouest/"
+  },
+  {
+    "name": "Échos Vedettes",
+    "taglink": "%C3%89chos%20Vedettes/"
+  },
+  {
+    "name": "Voici",
+    "taglink": "Voici/"
+  },
+  {
+    "name": "Revue Automobile",
+    "taglink": "Revue%20Automobile/"
+  },
+  {
+    "name": "7 Jours",
+    "taglink": "7%20Jours/"
+  },
+  {
+    "name": "La Semaine",
+    "taglink": "La%20Semaine/"
+  },
+  {
+    "name": "TV Hebdo",
+    "taglink": "TV%20Hebdo/"
+  },
+  {
+    "name": "L'ÉCO",
+    "taglink": "L%27%C3%89CO/"
+  },
+  {
+    "name": "Auto Plus",
+    "taglink": "Auto%20Plus/"
+  },
+  {
+    "name": "Le Fana de l’Aviation",
+    "taglink": "Le%20Fana%20de%20l%E2%80%99Aviation/"
+  },
+  {
+    "name": "Modèle",
+    "taglink": "Mod%C3%A8le/"
+  },
+  {
+    "name": "Moto Journal",
+    "taglink": "Moto%20Journal/"
+  },
+  {
+    "name": "Closer",
+    "taglink": "Closer/"
+  },
+  {
+    "name": "Public",
+    "taglink": "Public/"
+  },
+  {
+    "name": "Le Revenu",
+    "taglink": "Le%20Revenu/"
+  },
+  {
+    "name": "Madame Figaro",
+    "taglink": "Madame%20Figaro/"
+  },
+  {
+    "name": "TV Magazine",
+    "taglink": "TV%20Magazine/"
+  },
+  {
+    "name": "France Dimanche",
+    "taglink": "France%20Dimanche/"
+  },
+  {
+    "name": "Bébé Nature",
+    "taglink": "B%C3%A9b%C3%A9%20Nature/"
+  },
+  {
+    "name": "L’Humanité Magazine",
+    "taglink": "L%E2%80%99Humanit%C3%A9%20Magazine/"
+  },
+  {
+    "name": "Le nouvel Economiste",
+    "taglink": "Le%20nouvel%20Economiste/"
+  },
+  {
+    "name": "Le Journal de Mickey",
+    "taglink": "Le%20Journal%20de%20Mickey/"
+  },
+  {
+    "name": "Makabi",
+    "taglink": "Makabi/"
+  },
+  {
+    "name": "Luc Brunschwig",
+    "taglink": "Luc%20Brunschwig/"
+  },
+  {
+    "name": "Olivier Neuray",
+    "taglink": "Olivier%20Neuray/"
+  },
+  {
+    "name": "Junji Ito",
+    "taglink": "Junji%20Ito/"
+  },
+  {
+    "name": "Le chant des Stryges",
+    "taglink": "Le%20chant%20des%20Stryges/"
+  },
+  {
+    "name": "Eric Corbeyran",
+    "taglink": "Eric%20Corbeyran/"
+  },
+  {
+    "name": "Richard Guérineau",
+    "taglink": "Richard%20Gu%C3%A9rineau/"
+  },
+  {
+    "name": "Capital",
+    "taglink": "Capital/"
+  },
+  {
+    "name": "Vogue",
+    "taglink": "Vogue/"
+  },
+  {
+    "name": "Psychologies",
+    "taglink": "Psychologies/"
+  },
+  {
+    "name": "National Geographic Kids",
+    "taglink": "National%20Geographic%20Kids/"
+  },
+  {
+    "name": "National Geographic",
+    "taglink": "National%20Geographic/"
+  },
+  {
+    "name": "Tout Comprendre",
+    "taglink": "Tout%20Comprendre/"
+  },
+  {
+    "name": "Tout Comprendre Junior",
+    "taglink": "Tout%20Comprendre%20Junior/"
+  },
+  {
+    "name": "Arts in the City",
+    "taglink": "Arts%20in%20the%20City/"
+  },
+  {
+    "name": "Le Chasseur Français",
+    "taglink": "Le%20Chasseur%20Fran%C3%A7ais/"
+  },
+  {
+    "name": "Pêche en Mer",
+    "taglink": "P%C3%AAche%20en%20Mer/"
+  },
+  {
+    "name": "Pêche",
+    "taglink": "P%C3%AAche/"
+  },
+  {
+    "name": "Résidences Décoration",
+    "taglink": "R%C3%A9sidences%20D%C3%A9coration/"
+  },
+  {
+    "name": "Journal de France",
+    "taglink": "Journal%20de%20France/"
+  },
+  {
+    "name": "Souvenirs Souvenirs",
+    "taglink": "Souvenirs%20Souvenirs/"
+  },
+  {
+    "name": "Intimité Dimanche",
+    "taglink": "Intimit%C3%A9%20Dimanche/"
+  },
+  {
+    "name": "Les Veillées des Chaumières",
+    "taglink": "Les%20Veill%C3%A9es%20des%20Chaumi%C3%A8res/"
+  },
+  {
+    "name": "Moustique",
+    "taglink": "Moustique/"
+  },
+  {
+    "name": "Télérama",
+    "taglink": "T%C3%A9l%C3%A9rama/"
+  },
+  {
+    "name": "Télérama Sortir",
+    "taglink": "T%C3%A9l%C3%A9rama%20Sortir/"
+  },
+  {
+    "name": "Mots Croisés",
+    "taglink": "Mots%20Crois%C3%A9s/"
+  },
+  {
+    "name": "L’Auto-Journal",
+    "taglink": "L%E2%80%99Auto-Journal/"
+  },
+  {
+    "name": "Le Point",
+    "taglink": "Le%20Point/"
+  },
+  {
+    "name": "Paris Match",
+    "taglink": "Paris%20Match/"
+  },
+  {
+    "name": "Le Nouvel Obs",
+    "taglink": "Le%20Nouvel%20Obs/"
+  },
+  {
+    "name": "L'Express",
+    "taglink": "L%27Express/"
+  },
+  {
+    "name": "Marianne",
+    "taglink": "Marianne/"
+  },
+  {
+    "name": "Elle",
+    "taglink": "Elle/"
+  },
+  {
+    "name": "Merci pour l'info",
+    "taglink": "Merci%20pour%20l%27info/"
+  },
+  {
+    "name": "Valeurs Actuelles",
+    "taglink": "Valeurs%20Actuelles/"
+  },
+  {
+    "name": "Les Echos",
+    "taglink": "Les%20Echos/"
+  },
+  {
+    "name": "Gazoline",
+    "taglink": "Gazoline/"
+  },
+  {
+    "name": "Rock & Folk",
+    "taglink": "Rock%20%26%20Folk/"
+  },
+  {
+    "name": "Politis",
+    "taglink": "Politis/"
+  },
+  {
+    "name": "Stephen Desberg",
+    "taglink": "Stephen%20Desberg/"
+  },
+  {
+    "name": "Bernard Vrancken",
+    "taglink": "Bernard%20Vrancken/"
+  },
+  {
+    "name": "I.R.$.",
+    "taglink": "I.R.%24./"
+  },
+  {
+    "name": "Seuls",
+    "taglink": "Seuls/"
+  },
+  {
+    "name": "Fabien Vehlmann",
+    "taglink": "Fabien%20Vehlmann/"
+  },
+  {
+    "name": "Bruno Gazzotti",
+    "taglink": "Bruno%20Gazzotti/"
+  },
+  {
+    "name": "Lucky Luke",
+    "taglink": "Lucky%20Luke/"
+  },
+  {
+    "name": "Morris",
+    "taglink": "Morris/"
+  },
+  {
+    "name": "Bob de Groot",
+    "taglink": "Bob%20de%20Groot/"
+  },
+  {
+    "name": "Vanity Fair",
+    "taglink": "Vanity%20Fair/"
+  },
+  {
+    "name": "60 Millions de Consommateurs",
+    "taglink": "60%20Millions%20de%20Consommateurs/"
+  },
+  {
+    "name": "Jeux Vidéo",
+    "taglink": "Jeux%20Vid%C3%A9o/"
+  },
+  {
+    "name": "Courrier International",
+    "taglink": "Courrier%20International/"
+  },
+  {
+    "name": "Le Canard enchaîné",
+    "taglink": "Le%20Canard%20encha%C3%AEn%C3%A9/"
+  },
+  {
+    "name": "Ici Paris",
+    "taglink": "Ici%20Paris/"
+  },
+  {
+    "name": "Point de Vue",
+    "taglink": "Point%20de%20Vue/"
+  },
+  {
+    "name": "Transfuge",
+    "taglink": "Transfuge/"
+  },
+  {
+    "name": "Rebondir",
+    "taglink": "Rebondir/"
+  },
+  {
+    "name": "Télé 7 Jeux",
+    "taglink": "T%C3%A9l%C3%A9%207%20Jeux/"
+  },
+  {
+    "name": "L’Humanite",
+    "taglink": "L%E2%80%99Humanite/"
+  },
+  {
+    "name": "Télé Loisirs",
+    "taglink": "T%C3%A9l%C3%A9%20Loisirs/"
+  },
+  {
+    "name": "Laurent-Frédéric Bollée",
+    "taglink": "Laurent-Fr%C3%A9d%C3%A9ric%20Boll%C3%A9e/"
+  },
+  {
+    "name": "Federico Nardo",
+    "taglink": "Federico%20Nardo/"
+  },
+  {
+    "name": "Les Grands Personnages de l'Histoire en Bandes Dessinées",
+    "taglink": "Les%20Grands%20Personnages%20de%20l%27Histoire%20en%20Bandes%20Dessin%C3%A9es/"
+  },
+  {
+    "name": "Les futurs de Liu Cixin",
+    "taglink": "Les%20futurs%20de%20Liu%20Cixin/"
+  },
+  {
+    "name": "Sylvain Runberg",
+    "taglink": "Sylvain%20Runberg/"
+  },
+  {
+    "name": "Serge Pellé",
+    "taglink": "Serge%20Pell%C3%A9/"
+  },
+  {
+    "name": "Liu Cixin",
+    "taglink": "Liu%20Cixin/"
+  },
+  {
+    "name": "Les 5 Terres",
+    "taglink": "Les%205%20Terres/"
+  },
+  {
+    "name": "Lewelyn",
+    "taglink": "Lewelyn/"
+  },
+  {
+    "name": "Jérôme Lereculey",
+    "taglink": "J%C3%A9r%C3%B4me%20Lereculey/"
+  },
+  {
+    "name": "Mark Millar",
+    "taglink": "Mark%20Millar/"
+  },
+  {
+    "name": "Peter Gross",
+    "taglink": "Peter%20Gross/"
+  },
+  {
+    "name": "American Jesus",
+    "taglink": "American%20Jesus/"
+  },
+  {
+    "name": "Eric Le Bouhris",
+    "taglink": "Eric%20Le%20Bouhris/"
+  },
+  {
+    "name": "Jean-Claude Bauer",
+    "taglink": "Jean-Claude%20Bauer/"
+  },
+  {
+    "name": "François Dimberton",
+    "taglink": "Fran%C3%A7ois%20Dimberton/"
+  },
+  {
+    "name": "Paul Tobin",
+    "taglink": "Paul%20Tobin/"
+  },
+  {
+    "name": "Juan Ferreyra",
+    "taglink": "Juan%20Ferreyra/"
+  },
+  {
+    "name": "Le feu et la roche",
+    "taglink": "Le%20feu%20et%20la%20roche/"
+  },
+  {
+    "name": "Thomas Snégaroff",
+    "taglink": "Thomas%20Sn%C3%A9garoff/"
+  },
+  {
+    "name": "Louison",
+    "taglink": "Louison/"
+  },
+  {
+    "name": "Charlie Hebdo",
+    "taglink": "Charlie%20Hebdo/"
+  },
+  {
+    "name": "Gourmand",
+    "taglink": "Gourmand/"
+  },
+  {
+    "name": "Echappée Belle",
+    "taglink": "Echapp%C3%A9e%20Belle/"
+  },
+  {
+    "name": "Maison et Jardin",
+    "taglink": "Maison%20et%20Jardin/"
+  },
+  {
+    "name": "Télé Magazine",
+    "taglink": "T%C3%A9l%C3%A9%20Magazine/"
+  },
+  {
+    "name": "Le Neptune",
+    "taglink": "Le%20Neptune/"
+  },
+  {
+    "name": "Jean-Yves Delitte",
+    "taglink": "Jean-Yves%20Delitte/"
+  },
+  {
+    "name": "Waterloo 1911",
+    "taglink": "Waterloo%201911/"
+  },
+  {
+    "name": "Thierry Gloris",
+    "taglink": "Thierry%20Gloris/"
+  },
+  {
+    "name": "Emiliano Zarcone",
+    "taglink": "Emiliano%20Zarcone/"
+  },
+  {
+    "name": "Pearce",
+    "taglink": "Pearce/"
+  },
+  {
+    "name": "Jean Léturgie",
+    "taglink": "Jean%20L%C3%A9turgie/"
+  },
+  {
+    "name": "Polka",
+    "taglink": "Polka/"
+  },
+  {
+    "name": "Paris Vous Aime",
+    "taglink": "Paris%20Vous%20Aime/"
+  },
+  {
+    "name": "Multicoques Mag",
+    "taglink": "Multicoques%20Mag/"
+  },
+  {
+    "name": "La Revue française de Généalogie",
+    "taglink": "La%20Revue%20fran%C3%A7aise%20de%20G%C3%A9n%C3%A9alogie/"
+  },
+  {
+    "name": "La Sarthe",
+    "taglink": "La%20Sarthe/"
+  },
+  {
+    "name": "Edition Multimédi@",
+    "taglink": "Edition%20Multim%C3%A9di%40/"
+  },
+  {
+    "name": "Paris Turf",
+    "taglink": "Paris%20Turf/"
+  },
+  {
+    "name": "Paris Courses",
+    "taglink": "Paris%20Courses/"
+  },
+  {
+    "name": "La Gazette des Courses",
+    "taglink": "La%20Gazette%20des%20Courses/"
+  },
+  {
+    "name": "Week-end",
+    "taglink": "Week-end/"
+  },
+  {
+    "name": "Daniel Bardet",
+    "taglink": "Daniel%20Bardet/"
+  },
+  {
+    "name": "Michel Janvier",
+    "taglink": "Michel%20Janvier/"
+  },
+  {
+    "name": "Yollaine Vallet",
+    "taglink": "Yollaine%20Vallet/"
+  },
+  {
+    "name": "Gustave Flaubert",
+    "taglink": "Gustave%20Flaubert/"
+  },
+  {
+    "name": "Les Grands Classiques de la Littérature en Bande Dessinée",
+    "taglink": "Les%20Grands%20Classiques%20de%20la%20Litt%C3%A9rature%20en%20Bande%20Dessin%C3%A9e/"
+  },
+  {
+    "name": "Vieille Bruyère et Bas de Soie",
+    "taglink": "Vieille%20Bruy%C3%A8re%20et%20Bas%20de%20Soie/"
+  },
+  {
+    "name": "Étienne Willem",
+    "taglink": "%C3%89tienne%20Willem/"
+  },
+  {
+    "name": "Jacques Bastier",
+    "taglink": "Jacques%20Bastier/"
+  },
+  {
+    "name": "Bruno Lecigne",
+    "taglink": "Bruno%20Lecigne/"
+  },
+  {
+    "name": "Toni Cittadini",
+    "taglink": "Toni%20Cittadini/"
+  },
+  {
+    "name": "White Sand",
+    "taglink": "White%20Sand/"
+  },
+  {
+    "name": "Brandon Sanderson",
+    "taglink": "Brandon%20Sanderson/"
+  },
+  {
+    "name": "Rik Hoskin",
+    "taglink": "Rik%20Hoskin/"
+  },
+  {
+    "name": "Fritz Casas",
+    "taglink": "Fritz%20Casas/"
+  },
+  {
+    "name": "Moteur Boat",
+    "taglink": "Moteur%20Boat/"
+  },
+  {
+    "name": "Yachting Digest",
+    "taglink": "Yachting%20Digest/"
+  },
+  {
+    "name": "Connaissance de la Chasse",
+    "taglink": "Connaissance%20de%20la%20Chasse/"
+  },
+  {
+    "name": "Dinopédia Découverte",
+    "taglink": "Dinop%C3%A9dia%20D%C3%A9couverte/"
+  },
+  {
+    "name": "Reva Tahiti Spécial Horue",
+    "taglink": "Reva%20Tahiti%20Sp%C3%A9cial%20Horue/"
+  },
+  {
+    "name": "Reva Tahiti",
+    "taglink": "Reva%20Tahiti/"
+  },
+  {
+    "name": "L'Arche",
+    "taglink": "L%27Arche/"
+  },
+  {
+    "name": "Transport Info",
+    "taglink": "Transport%20Info/"
+  },
+  {
+    "name": "La Tribune Dimanche",
+    "taglink": "La%20Tribune%20Dimanche/"
+  },
+  {
+    "name": "La Tribune",
+    "taglink": "La%20Tribune/"
+  },
+  {
+    "name": "Jok",
+    "taglink": "Jok/"
+  },
+  {
+    "name": "Rodolfo Santullo",
+    "taglink": "Rodolfo%20Santullo/"
+  },
+  {
+    "name": "Les Trois Mousquetaires",
+    "taglink": "Les%20Trois%20Mousquetaires/"
+  },
+  {
+    "name": "Cédric Tchao",
+    "taglink": "C%C3%A9dric%20Tchao/"
+  },
+  {
+    "name": "Néjib",
+    "taglink": "N%C3%A9jib/"
+  },
+  {
+    "name": "Xavier Fauche",
+    "taglink": "Xavier%20Fauche/"
+  },
+  {
+    "name": "Eric Adam",
+    "taglink": "Eric%20Adam/"
+  },
+  {
+    "name": "Masculin",
+    "taglink": "Masculin/"
+  },
+  {
+    "name": "Christophe Bec",
+    "taglink": "Christophe%20Bec/"
+  },
+  {
+    "name": "Petit Poilu",
+    "taglink": "Petit%20Poilu/"
+  },
+  {
+    "name": "Pierre Bailly",
+    "taglink": "Pierre%20Bailly/"
+  },
+  {
+    "name": "Céline Fraipont",
+    "taglink": "C%C3%A9line%20Fraipont/"
+  },
+  {
+    "name": "Que Choisir",
+    "taglink": "Que%20Choisir/"
+  },
+  {
+    "name": "Que Choisir Santé",
+    "taglink": "Que%20Choisir%20Sant%C3%A9/"
+  },
+  {
+    "name": "Restaurer et Aménager",
+    "taglink": "Restaurer%20et%20Am%C3%A9nager/"
+  },
+  {
+    "name": "Playboy",
+    "taglink": "Playboy/"
+  },
+  {
+    "name": "Le Guide de l'Auto-Journal",
+    "taglink": "Le%20Guide%20de%20l%27Auto-Journal/"
+  },
+  {
+    "name": "T3",
+    "taglink": "T3/"
+  },
+  {
+    "name": "L’Ami des Jardins",
+    "taglink": "L%E2%80%99Ami%20des%20Jardins/"
+  },
+  {
+    "name": "Traits D'connecte",
+    "taglink": "Traits%20D%27connecte/"
+  },
+  {
+    "name": "Traits D'co",
+    "taglink": "Traits%20D%27co/"
+  },
+  {
+    "name": "Nouvelles Semaine",
+    "taglink": "Nouvelles%20Semaine/"
+  },
+  {
+    "name": "Philosophie",
+    "taglink": "Philosophie/"
+  },
+  {
+    "name": "Fou de Pâtisserie",
+    "taglink": "Fou%20de%20P%C3%A2tisserie/"
+  },
+  {
+    "name": "Les Grands Dossiers des Sciences Humaines",
+    "taglink": "Les%20Grands%20Dossiers%20des%20Sciences%20Humaines/"
+  },
+  {
+    "name": "Collection Rock & Folk",
+    "taglink": "Collection%20Rock%20%26%20Folk/"
+  },
+  {
+    "name": "Le Monde des Ados",
+    "taglink": "Le%20Monde%20des%20Ados/"
+  },
+  {
+    "name": "Le Journal de Spirou",
+    "taglink": "Le%20Journal%20de%20Spirou/"
+  },
+  {
+    "name": "Yann",
+    "taglink": "Yann/"
+  },
+  {
+    "name": "Camping-Car",
+    "taglink": "Camping-Car/"
+  },
+  {
+    "name": "Moto Revue",
+    "taglink": "Moto%20Revue/"
+  },
+  {
+    "name": "Forbes",
+    "taglink": "Forbes/"
+  },
+  {
+    "name": "Society",
+    "taglink": "Society/"
+  },
+  {
+    "name": "Le Mensuel Grand Est",
+    "taglink": "Le%20Mensuel%20Grand%20Est/"
+  },
+  {
+    "name": "Challenges",
+    "taglink": "Challenges/"
+  },
+  {
+    "name": "Gala",
+    "taglink": "Gala/"
+  },
+  {
+    "name": "Les Mondes de Thorgal",
+    "taglink": "Les%20Mondes%20de%20Thorgal/"
+  },
+  {
+    "name": "Les Mondes de Thorgal La jeunesse",
+    "taglink": "Les%20Mondes%20de%20Thorgal%20La%20jeunesse/"
+  },
+  {
+    "name": "Thorgal",
+    "taglink": "Thorgal/"
+  },
+  {
+    "name": "Roman Surzhenko",
+    "taglink": "Roman%20Surzhenko/"
+  },
+  {
+    "name": "Saveurs",
+    "taglink": "Saveurs/"
+  },
+  {
+    "name": "Alternatives Économiques",
+    "taglink": "Alternatives%20%C3%89conomiques/"
+  },
+  {
+    "name": "Notre Temps",
+    "taglink": "Notre%20Temps/"
+  },
+  {
+    "name": "La Revue Nationale de la Chasse",
+    "taglink": "La%20Revue%20Nationale%20de%20la%20Chasse/"
+  },
+  {
+    "name": "Album Histoire",
+    "taglink": "Album%20Histoire/"
+  },
+  {
+    "name": "Kiteboarder",
+    "taglink": "Kiteboarder/"
+  },
+  {
+    "name": "Trek",
+    "taglink": "Trek/"
+  },
+  {
+    "name": "Wind",
+    "taglink": "Wind/"
+  },
+  {
+    "name": "Wing Surf",
+    "taglink": "Wing%20Surf/"
+  },
+  {
+    "name": "Le Foot",
+    "taglink": "Le%20Foot/"
+  },
+  {
+    "name": "Le Foot magazine",
+    "taglink": "Le%20Foot%20magazine/"
+  },
+  {
+    "name": "Courrier Cadres & Dirigeants",
+    "taglink": "Courrier%20Cadres%20%26%20Dirigeants/"
+  },
+  {
+    "name": "So film",
+    "taglink": "So%20film/"
+  },
+  {
+    "name": "Cahiers du Cinéma",
+    "taglink": "Cahiers%20du%20Cin%C3%A9ma/"
+  },
+  {
+    "name": "Technikart",
+    "taglink": "Technikart/"
+  },
+  {
+    "name": "Mickey Junior",
+    "taglink": "Mickey%20Junior/"
+  },
+  {
+    "name": "Picsou",
+    "taglink": "Picsou/"
+  },
+  {
+    "name": "Monde Gourmand",
+    "taglink": "Monde%20Gourmand/"
+  },
+  {
+    "name": "Chanson",
+    "taglink": "Chanson/"
+  },
+  {
+    "name": "Intimité",
+    "taglink": "Intimit%C3%A9/"
+  },
+  {
+    "name": "In Corsica",
+    "taglink": "In%20Corsica/"
+  },
+  {
+    "name": "Nous Deux Vos Histoires",
+    "taglink": "Nous%20Deux%20Vos%20Histoires/"
+  },
+  {
+    "name": "01net",
+    "taglink": "01net/"
+  },
+  {
+    "name": "Grands Reportages",
+    "taglink": "Grands%20Reportages/"
+  },
+  {
+    "name": "Wyctor",
+    "taglink": "Wyctor/"
+  },
+  {
+    "name": "Paolo Martinello",
+    "taglink": "Paolo%20Martinello/"
+  },
+  {
+    "name": "Bruno Dumézil",
+    "taglink": "Bruno%20Dum%C3%A9zil/"
+  },
+  {
+    "name": "Cyberpunk 2077",
+    "taglink": "Cyberpunk%202077/"
+  },
+  {
+    "name": "Aleksandra Motyka",
+    "taglink": "Aleksandra%20Motyka/"
+  },
+  {
+    "name": "Marcin Blacha",
+    "taglink": "Marcin%20Blacha/"
+  },
+  {
+    "name": "Danijel Žeželj",
+    "taglink": "Danijel%20%C5%BDe%C5%BEelj/"
+  },
+  {
+    "name": "Fluide Glacial",
+    "taglink": "Fluide%20Glacial/"
+  },
+  {
+    "name": "Julius Gopez",
+    "taglink": "Julius%20Gopez/"
+  },
+  {
+    "name": "Julius Otha",
+    "taglink": "Julius%20Otha/"
+  },
+  {
+    "name": "Low-Tech Journal",
+    "taglink": "Low-Tech%20Journal/"
+  },
+  {
+    "name": "Montagnes",
+    "taglink": "Montagnes/"
+  },
+  {
+    "name": "Féminin Psycho",
+    "taglink": "F%C3%A9minin%20Psycho/"
+  },
+  {
+    "name": "Spécial Senior",
+    "taglink": "Sp%C3%A9cial%20Senior/"
+  },
+  {
+    "name": "Le magazine des Femmes",
+    "taglink": "Le%20magazine%20des%20Femmes/"
+  },
+  {
+    "name": "Michel Vaillant",
+    "taglink": "Michel%20Vaillant/"
+  },
+  {
+    "name": "Denis Lapière",
+    "taglink": "Denis%20Lapi%C3%A8re/"
+  },
+  {
+    "name": "Marc Bourgne",
+    "taglink": "Marc%20Bourgne/"
+  },
+  {
+    "name": "Eillam",
+    "taglink": "Eillam/"
+  },
+  {
+    "name": "Tête de Pioche",
+    "taglink": "T%C3%AAte%20de%20Pioche/"
+  },
+  {
+    "name": "Giovanni Rigano",
+    "taglink": "Giovanni%20Rigano/"
+  },
+  {
+    "name": "Frédéric Brrémaud",
+    "taglink": "Fr%C3%A9d%C3%A9ric%20Brr%C3%A9maud/"
+  },
+  {
+    "name": "Philippe Charlot",
+    "taglink": "Philippe%20Charlot/"
+  },
+  {
+    "name": "Miras",
+    "taglink": "Miras/"
+  },
+  {
+    "name": "Philippe Bonifay",
+    "taglink": "Philippe%20Bonifay/"
+  },
+  {
+    "name": "Frank Pé",
+    "taglink": "Frank%20P%C3%A9/"
+  },
+  {
+    "name": "Nawa",
+    "taglink": "Nawa/"
+  },
+  {
+    "name": "Bartosz Sztybor",
+    "taglink": "Bartosz%20Sztybor/"
+  },
+  {
+    "name": "Jesús Hervàs Millàn",
+    "taglink": "Jes%C3%BAs%20Herv%C3%A0s%20Mill%C3%A0n/"
+  },
+  {
+    "name": "Vikings dans la brume",
+    "taglink": "Vikings%20dans%20la%20brume/"
+  },
+  {
+    "name": "Wilfrid Lupano",
+    "taglink": "Wilfrid%20Lupano/"
+  },
+  {
+    "name": "Rodolphe Ohazar",
+    "taglink": "Rodolphe%20Ohazar/"
+  },
+  {
+    "name": "France Football",
+    "taglink": "France%20Football/"
+  },
+  {
+    "name": "Cuisine a&d",
+    "taglink": "Cuisine%20a%26d/"
+  },
+  {
+    "name": "Clés pour le train miniature",
+    "taglink": "Cl%C3%A9s%20pour%20le%20train%20miniature/"
+  },
+  {
+    "name": "Voile",
+    "taglink": "Voile/"
+  },
+  {
+    "name": "Big Bike",
+    "taglink": "Big%20Bike/"
+  },
+  {
+    "name": "Christian Clot",
+    "taglink": "Christian%20Clot/"
+  },
+  {
+    "name": "Philippe Thirault",
+    "taglink": "Philippe%20Thirault/"
+  },
+  {
+    "name": "Thomas Verguet",
+    "taglink": "Thomas%20Verguet/"
+  },
+  {
+    "name": "Philippe Graton",
+    "taglink": "Philippe%20Graton/"
+  },
+  {
+    "name": "Benjamin Benéteau",
+    "taglink": "Benjamin%20Ben%C3%A9teau/"
+  },
+  {
+    "name": "Le Peuple Des Brumes",
+    "taglink": "Le%20Peuple%20Des%20Brumes/"
+  },
+  {
+    "name": "Katia Even",
+    "taglink": "Katia%20Even/"
+  },
+  {
+    "name": "Marina Duclos",
+    "taglink": "Marina%20Duclos/"
+  },
+  {
+    "name": "Styloïde",
+    "taglink": "Stylo%C3%AFde/"
+  },
+  {
+    "name": "Programmez",
+    "taglink": "Programmez/"
+  },
+  {
+    "name": "Pharaon",
+    "taglink": "Pharaon/"
+  },
+  {
+    "name": "Fisheye",
+    "taglink": "Fisheye/"
+  },
+  {
+    "name": "Sport Auto Classiques",
+    "taglink": "Sport%20Auto%20Classiques/"
+  },
+  {
+    "name": "Esprit Yoga",
+    "taglink": "Esprit%20Yoga/"
+  },
+  {
+    "name": "Cool",
+    "taglink": "Cool/"
+  },
+  {
+    "name": "Fairways",
+    "taglink": "Fairways/"
+  },
+  {
+    "name": "Mes Finances",
+    "taglink": "Mes%20Finances/"
+  },
+  {
+    "name": "VSD",
+    "taglink": "VSD/"
+  },
+  {
+    "name": "Dernière Heure",
+    "taglink": "Derni%C3%A8re%20Heure/"
+  },
+  {
+    "name": "Le Particulier Vie Pratique",
+    "taglink": "Le%20Particulier%20Vie%20Pratique/"
+  },
+  {
+    "name": "Le Particulier",
+    "taglink": "Le%20Particulier/"
+  },
+  {
+    "name": "Planète Robots",
+    "taglink": "Plan%C3%A8te%20Robots/"
+  },
+  {
+    "name": "Windows & Internet Pratique",
+    "taglink": "Windows%20%26%20Internet%20Pratique/"
+  },
+  {
+    "name": "Micro Pratique",
+    "taglink": "Micro%20Pratique/"
+  },
+  {
+    "name": "Geo",
+    "taglink": "Geo/"
+  },
+  {
+    "name": "Geo Histoire",
+    "taglink": "Geo%20Histoire/"
+  },
+  {
+    "name": "Secrets d'Histoire",
+    "taglink": "Secrets%20d%27Histoire/"
+  },
+  {
+    "name": "Total Jeux Vidéo",
+    "taglink": "Total%20Jeux%20Vid%C3%A9o/"
+  },
+  {
+    "name": "Video Gamer",
+    "taglink": "Video%20Gamer/"
+  },
+  {
+    "name": "Video Gamer Rétro",
+    "taglink": "Video%20Gamer%20R%C3%A9tro/"
+  },
+  {
+    "name": "Stratégies",
+    "taglink": "Strat%C3%A9gies/"
+  },
+  {
+    "name": "Infos Yoga",
+    "taglink": "Infos%20Yoga/"
+  },
+  {
+    "name": "Causeur",
+    "taglink": "Causeur/"
+  },
+  {
+    "name": "Dandy",
+    "taglink": "Dandy/"
+  },
+  {
+    "name": "Le Figaro Santé",
+    "taglink": "Le%20Figaro%20Sant%C3%A9/"
+  },
+  {
+    "name": "Micro Simulateur",
+    "taglink": "Micro%20Simulateur/"
+  },
+  {
+    "name": "L’essentiel du Drone",
+    "taglink": "L%E2%80%99essentiel%20du%20Drone/"
+  },
+  {
+    "name": "Collection Auto",
+    "taglink": "Collection%20Auto/"
+  },
+  {
+    "name": "Football",
+    "taglink": "Football/"
+  },
+  {
+    "name": "Le Quotidien du Sport",
+    "taglink": "Le%20Quotidien%20du%20Sport/"
+  },
+  {
+    "name": "Entreprendre",
+    "taglink": "Entreprendre/"
+  },
+  {
+    "name": "Pleine Vie",
+    "taglink": "Pleine%20Vie/"
+  },
+  {
+    "name": "Féminin Senior",
+    "taglink": "F%C3%A9minin%20Senior/"
+  },
+  {
+    "name": "Placements",
+    "taglink": "Placements/"
+  },
+  {
+    "name": "Spécial Police",
+    "taglink": "Sp%C3%A9cial%20Police/"
+  },
+  {
+    "name": "Week-end Sports",
+    "taglink": "Week-end%20Sports/"
+  },
+  {
+    "name": "Édition Multimédi@",
+    "taglink": "%C3%89dition%20Multim%C3%A9di%40/"
+  },
+  {
+    "name": "Midi Ouest",
+    "taglink": "Midi%20Ouest/"
+  },
+  {
+    "name": "Détours en France",
+    "taglink": "D%C3%A9tours%20en%20France/"
+  },
+  {
+    "name": "Warship Jolly Roger",
+    "taglink": "Warship%20Jolly%20Roger/"
+  },
+  {
+    "name": "Miki Montllo",
+    "taglink": "Miki%20Montllo/"
+  },
+  {
+    "name": "Dalí",
+    "taglink": "Dal%C3%AD/"
+  },
+  {
+    "name": "Julie Birmant",
+    "taglink": "Julie%20Birmant/"
+  },
+  {
+    "name": "Clément Oubrerie",
+    "taglink": "Cl%C3%A9ment%20Oubrerie/"
+  },
+  {
+    "name": "Rudy Spiessert",
+    "taglink": "Rudy%20Spiessert/"
+  },
+  {
+    "name": "Hervé Bourhis",
+    "taglink": "Herv%C3%A9%20Bourhis/"
+  },
+  {
+    "name": "Roberto Ricci",
+    "taglink": "Roberto%20Ricci/"
+  },
+  {
+    "name": "Souvenirs d'enfance",
+    "taglink": "Souvenirs%20d%27enfance/"
+  },
+  {
+    "name": "Serge Scotto",
+    "taglink": "Serge%20Scotto/"
+  },
+  {
+    "name": "Morgann Tanco",
+    "taglink": "Morgann%20Tanco/"
+  },
+  {
+    "name": "Éric Stoffel",
+    "taglink": "%C3%89ric%20Stoffel/"
+  },
+  {
+    "name": "Marcel Pagnol",
+    "taglink": "Marcel%20Pagnol/"
+  },
+  {
+    "name": "Pour Elles",
+    "taglink": "Pour%20Elles/"
+  },
+  {
+    "name": "Daphne's Diary",
+    "taglink": "Daphne%27s%20Diary/"
+  },
+  {
+    "name": "Tsugi",
+    "taglink": "Tsugi/"
+  },
+  {
+    "name": "What Hi-Fi",
+    "taglink": "What%20Hi-Fi/"
+  },
+  {
+    "name": "Maxi Cuisine",
+    "taglink": "Maxi%20Cuisine/"
+  },
+  {
+    "name": "Infrarouge",
+    "taglink": "Infrarouge/"
+  },
+  {
+    "name": "Infrarouge Spécial",
+    "taglink": "Infrarouge%20Sp%C3%A9cial/"
+  },
+  {
+    "name": "Fabio Pezzi",
+    "taglink": "Fabio%20Pezzi/"
+  },
+  {
+    "name": "Nathalie Sergeef",
+    "taglink": "Nathalie%20Sergeef/"
+  },
+  {
+    "name": "Terry Moore",
+    "taglink": "Terry%20Moore/"
+  },
+  {
+    "name": "Love",
+    "taglink": "Love/"
+  },
+  {
+    "name": "Federico Bertolucci",
+    "taglink": "Federico%20Bertolucci/"
+  },
+  {
+    "name": "Angor",
+    "taglink": "Angor/"
+  },
+  {
+    "name": "Jean-Charles Gaudin",
+    "taglink": "Jean-Charles%20Gaudin/"
+  },
+  {
+    "name": "Dimitri Armand",
+    "taglink": "Dimitri%20Armand/"
+  },
+  {
+    "name": "Marius",
+    "taglink": "Marius/"
+  },
+  {
+    "name": "Sébastien Morice",
+    "taglink": "S%C3%A9bastien%20Morice/"
+  },
+  {
+    "name": "Lo Hartog van Banda",
+    "taglink": "Lo%20Hartog%20van%20Banda/"
+  },
+  {
+    "name": "Investissement Conseils",
+    "taglink": "Investissement%20Conseils/"
+  },
+  {
+    "name": "Frédéric Brémaud",
+    "taglink": "Fr%C3%A9d%C3%A9ric%20Br%C3%A9maud/"
+  },
+  {
+    "name": "Daniele Caluri",
+    "taglink": "Daniele%20Caluri/"
+  },
+  {
+    "name": "Jules Verne",
+    "taglink": "Jules%20Verne/"
+  },
+  {
+    "name": "Aude Mermilliod",
+    "taglink": "Aude%20Mermilliod/"
+  },
+  {
+    "name": "Martin Winckler",
+    "taglink": "Martin%20Winckler/"
+  },
+  {
+    "name": "Alain Mounier",
+    "taglink": "Alain%20Mounier/"
+  },
+  {
+    "name": "L’Automobile",
+    "taglink": "L%E2%80%99Automobile/"
+  },
+  {
+    "name": "Cuisine et Vins de France",
+    "taglink": "Cuisine%20et%20Vins%20de%20France/"
+  },
+  {
+    "name": "Boat Heroes",
+    "taglink": "Boat%20Heroes/"
+  },
+  {
+    "name": "Têtu",
+    "taglink": "T%C3%AAtu/"
+  },
+  {
+    "name": "Architecture Durable",
+    "taglink": "Architecture%20Durable/"
+  },
+  {
+    "name": "Télé 2",
+    "taglink": "T%C3%A9l%C3%A9%202/"
+  },
+  {
+    "name": "Télé 2 Semaines",
+    "taglink": "T%C3%A9l%C3%A9%202%20Semaines/"
+  },
+  {
+    "name": "Philippe Richelle",
+    "taglink": "Philippe%20Richelle/"
+  },
+  {
+    "name": "Pierre Wachs",
+    "taglink": "Pierre%20Wachs/"
+  },
+  {
+    "name": "Lonesome",
+    "taglink": "Lonesome/"
+  },
+  {
+    "name": "Yves Swolfs",
+    "taglink": "Yves%20Swolfs/"
+  },
+  {
+    "name": "Joe Hill",
+    "taglink": "Joe%20Hill/"
+  },
+  {
+    "name": "David M. Booher",
+    "taglink": "David%20M.%20Booher/"
+  },
+  {
+    "name": "Zoe Thorogood",
+    "taglink": "Zoe%20Thorogood/"
+  },
+  {
+    "name": "Chris O'Halloran",
+    "taglink": "Chris%20O%27Halloran/"
+  },
+  {
+    "name": "Largo Winch",
+    "taglink": "Largo%20Winch/"
+  },
+  {
+    "name": "Eric Giacometti",
+    "taglink": "Eric%20Giacometti/"
+  },
+  {
+    "name": "Philippe Francq",
+    "taglink": "Philippe%20Francq/"
+  },
+  {
+    "name": "Croire & Vivre",
+    "taglink": "Croire%20%26%20Vivre/"
+  },
+  {
+    "name": "Réponses Photo",
+    "taglink": "R%C3%A9ponses%20Photo/"
+  },
+  {
+    "name": "Historia",
+    "taglink": "Historia/"
+  },
+  {
+    "name": "Mon Jardin & Ma Maison",
+    "taglink": "Mon%20Jardin%20%26%20Ma%20Maison/"
+  },
+  {
+    "name": "Cyclist",
+    "taglink": "Cyclist/"
+  },
+  {
+    "name": "Copropriété & Travaux",
+    "taglink": "Copropri%C3%A9t%C3%A9%20%26%20Travaux/"
+  },
+  {
+    "name": "Mon Premier Journal de Mickey",
+    "taglink": "Mon%20Premier%20Journal%20de%20Mickey/"
+  },
+  {
+    "name": "Ça M’intéresse Questions & Réponses",
+    "taglink": "%C3%87a%20M%E2%80%99int%C3%A9resse%20Questions%20%26%20R%C3%A9ponses/"
+  },
+  {
+    "name": "Sept mook",
+    "taglink": "Sept%20mook/"
+  },
+  {
+    "name": "Voyage de Luxe",
+    "taglink": "Voyage%20de%20Luxe/"
+  },
+  {
+    "name": "Hôtel & Lodge",
+    "taglink": "H%C3%B4tel%20%26%20Lodge/"
+  },
+  {
+    "name": "Paris Hebdo",
+    "taglink": "Paris%20Hebdo/"
+  },
+  {
+    "name": "L’Histoire",
+    "taglink": "L%E2%80%99Histoire/"
+  },
+  {
+    "name": "L’Histoire Collection",
+    "taglink": "L%E2%80%99Histoire%20Collection/"
+  },
+  {
+    "name": "Destination Europe",
+    "taglink": "Destination%20Europe/"
+  },
+  {
+    "name": "Cuisine Actuelle",
+    "taglink": "Cuisine%20Actuelle/"
+  },
+  {
+    "name": "Paris Match A La Une",
+    "taglink": "Paris%20Match%20A%20La%20Une/"
+  },
+  {
+    "name": "Maison & Travaux",
+    "taglink": "Maison%20%26%20Travaux/"
+  },
+  {
+    "name": "Speedster",
+    "taglink": "Speedster/"
+  },
+  {
+    "name": "L’Art de vivre du Figaro",
+    "taglink": "L%E2%80%99Art%20de%20vivre%20du%20Figaro/"
+  },
+  {
+    "name": "Otaku Manga",
+    "taglink": "Otaku%20Manga/"
+  },
+  {
+    "name": "Choc",
+    "taglink": "Choc/"
+  },
+  {
+    "name": "Aujourd'hui Femme",
+    "taglink": "Aujourd%27hui%20Femme/"
+  },
+  {
+    "name": "C'est Dit",
+    "taglink": "C%27est%20Dit/"
+  },
+  {
+    "name": "France Quotidien",
+    "taglink": "France%20Quotidien/"
+  },
+  {
+    "name": "France Quotidien Destins Tragiques",
+    "taglink": "France%20Quotidien%20Destins%20Tragiques/"
+  },
+  {
+    "name": "Les Dossiers du Pirate",
+    "taglink": "Les%20Dossiers%20du%20Pirate/"
+  },
+  {
+    "name": "Les Inrockuptibles",
+    "taglink": "Les%20Inrockuptibles/"
+  },
+  {
+    "name": "Régal",
+    "taglink": "R%C3%A9gal/"
+  },
+  {
+    "name": "Architectural Digest",
+    "taglink": "Architectural%20Digest/"
+  },
+  {
+    "name": "AD",
+    "taglink": "AD/"
+  },
+  {
+    "name": "Maison Créative",
+    "taglink": "Maison%20Cr%C3%A9ative/"
+  },
+  {
+    "name": "Marie France",
+    "taglink": "Marie%20France/"
+  },
+  {
+    "name": "Biba",
+    "taglink": "Biba/"
+  },
+  {
+    "name": "Science & Vie Junior",
+    "taglink": "Science%20%26%20Vie%20Junior/"
+  },
+  {
+    "name": "Science & Vie Découvertes",
+    "taglink": "Science%20%26%20Vie%20D%C3%A9couvertes/"
+  },
+  {
+    "name": "Mon petit Science & Vie avec Nano",
+    "taglink": "Mon%20petit%20Science%20%26%20Vie%20avec%20Nano/"
+  },
+  {
+    "name": "Modes & Travaux",
+    "taglink": "Modes%20%26%20Travaux/"
+  },
+  {
+    "name": "Classica",
+    "taglink": "Classica/"
+  },
+  {
+    "name": "Parents",
+    "taglink": "Parents/"
+  },
+  {
+    "name": "Le Nouveau Détective",
+    "taglink": "Le%20Nouveau%20D%C3%A9tective/"
+  },
+  {
+    "name": "Christian Rossi",
+    "taglink": "Christian%20Rossi/"
+  },
+  {
+    "name": "Erik L'Homme",
+    "taglink": "Erik%20L%27Homme/"
+  },
+  {
+    "name": "Marcello De Martino",
+    "taglink": "Marcello%20De%20Martino/"
+  },
+  {
+    "name": "Silver Coin",
+    "taglink": "Silver%20Coin/"
+  },
+  {
+    "name": "Michael Walsh",
+    "taglink": "Michael%20Walsh/"
+  },
+  {
+    "name": "Joshua Williamson",
+    "taglink": "Joshua%20Williamson/"
+  },
+  {
+    "name": "Ram V",
+    "taglink": "Ram%20V/"
+  },
+  {
+    "name": "Matthew Rosenberg",
+    "taglink": "Matthew%20Rosenberg/"
+  },
+  {
+    "name": "Jonathan Hickman",
+    "taglink": "Jonathan%20Hickman/"
+  },
+  {
+    "name": "Bryan Hitch",
+    "taglink": "Bryan%20Hitch/"
+  },
+  {
+    "name": "Marvel",
+    "taglink": "Marvel/"
+  },
+  {
+    "name": "Claude Guylouis",
+    "taglink": "Claude%20Guylouis/"
+  },
+  {
+    "name": "Losange",
+    "taglink": "Losange/"
+  },
+  {
+    "name": "Vivre Bio",
+    "taglink": "Vivre%20Bio/"
+  },
+  {
+    "name": "Neptune",
+    "taglink": "Neptune/"
+  },
+  {
+    "name": "Objectif Gard",
+    "taglink": "Objectif%20Gard/"
+  },
+  {
+    "name": "Noir et Blanc",
+    "taglink": "Noir%20et%20Blanc/"
+  },
+  {
+    "name": "Que Choisir Argent",
+    "taglink": "Que%20Choisir%20Argent/"
+  },
+  {
+    "name": "Sélection Reader's Digest",
+    "taglink": "S%C3%A9lection%20Reader%27s%20Digest/"
+  },
+  {
+    "name": "Reader's Digest",
+    "taglink": "Reader%27s%20Digest/"
+  },
+  {
+    "name": "Geek",
+    "taglink": "Geek/"
+  },
+  {
+    "name": "Geek Junior",
+    "taglink": "Geek%20Junior/"
+  },
+  {
+    "name": "Conflits",
+    "taglink": "Conflits/"
+  },
+  {
+    "name": "Moto Verte",
+    "taglink": "Moto%20Verte/"
+  },
+  {
+    "name": "Mémento",
+    "taglink": "M%C3%A9mento/"
+  },
+  {
+    "name": "La Tribu des Idées",
+    "taglink": "La%20Tribu%20des%20Id%C3%A9es/"
+  },
+  {
+    "name": "Lyon Capitale",
+    "taglink": "Lyon%20Capitale/"
+  },
+  {
+    "name": "Bien-Dire",
+    "taglink": "Bien-Dire/"
+  },
+  {
+    "name": "Guillaume Picon",
+    "taglink": "Guillaume%20Picon/"
+  },
+  {
+    "name": "H@cktivists",
+    "taglink": "H%40cktivists/"
+  },
+  {
+    "name": "Geanes Holland",
+    "taglink": "Geanes%20Holland/"
+  },
+  {
+    "name": "Michel Ragon",
+    "taglink": "Michel%20Ragon/"
+  },
+  {
+    "name": "Jérémie Royer",
+    "taglink": "J%C3%A9r%C3%A9mie%20Royer/"
+  },
+  {
+    "name": "Wild West",
+    "taglink": "Wild%20West/"
+  },
+  {
+    "name": "Jacques Lamontagne",
+    "taglink": "Jacques%20Lamontagne/"
+  },
+  {
+    "name": "Nouvelle Ère",
+    "taglink": "Nouvelle%20%C3%88re/"
+  },
+  {
+    "name": "Golf Azur",
+    "taglink": "Golf%20Azur/"
+  },
+  {
+    "name": "TV Grandes chaînes",
+    "taglink": "TV%20Grandes%20cha%C3%AEnes/"
+  },
+  {
+    "name": "Étoiles Passion",
+    "taglink": "%C3%89toiles%20Passion/"
+  },
+  {
+    "name": "Infos Monnaie",
+    "taglink": "Infos%20Monnaie/"
+  },
+  {
+    "name": "Méditation",
+    "taglink": "M%C3%A9ditation/"
+  },
+  {
+    "name": "Plantes & Santé",
+    "taglink": "Plantes%20%26%20Sant%C3%A9/"
+  },
+  {
+    "name": "Ombres & Lumière",
+    "taglink": "Ombres%20%26%20Lumi%C3%A8re/"
+  },
+  {
+    "name": "Bastille",
+    "taglink": "Bastille/"
+  },
+  {
+    "name": "Argument",
+    "taglink": "Argument/"
+  },
+  {
+    "name": "100 Idées",
+    "taglink": "100%20Id%C3%A9es/"
+  },
+  {
+    "name": "First Class",
+    "taglink": "First%20Class/"
+  },
+  {
+    "name": "Jean-Blaise Djian",
+    "taglink": "Jean-Blaise%20Djian/"
+  },
+  {
+    "name": "Toni Fejzula",
+    "taglink": "Toni%20Fejzula/"
+  },
+  {
+    "name": "Stendhal",
+    "taglink": "Stendhal/"
+  },
+  {
+    "name": "Poltron Minet",
+    "taglink": "Poltron%20Minet/"
+  },
+  {
+    "name": "Madd",
+    "taglink": "Madd/"
+  },
+  {
+    "name": "Cédric Mayen",
+    "taglink": "C%C3%A9dric%20Mayen/"
+  },
+  {
+    "name": "Karine Danan",
+    "taglink": "Karine%20Danan/"
+  },
+  {
+    "name": "Stomie Buzy",
+    "taglink": "Stomie%20Buzy/"
+  },
+  {
+    "name": "Mazan",
+    "taglink": "Mazan/"
+  },
+  {
+    "name": "So Good",
+    "taglink": "So%20Good/"
+  },
+  {
+    "name": "Première",
+    "taglink": "Premi%C3%A8re/"
+  },
+  {
+    "name": "Welcome back Alice",
+    "taglink": "Welcome%20back%20Alice/"
+  },
+  {
+    "name": "Shûzô Oshimi",
+    "taglink": "Sh%C3%BBz%C3%B4%20Oshimi/"
+  },
+  {
+    "name": "Claire Fauvel",
+    "taglink": "Claire%20Fauvel/"
+  },
+  {
+    "name": "Les Tuniques Bleues",
+    "taglink": "Les%20Tuniques%20Bleues/"
+  },
+  {
+    "name": "Kris",
+    "taglink": "Kris/"
+  },
+  {
+    "name": "Willy Lambil",
+    "taglink": "Willy%20Lambil/"
+  },
+  {
+    "name": "Ferrovissime",
+    "taglink": "Ferrovissime/"
+  },
+  {
+    "name": "Vélo",
+    "taglink": "V%C3%A9lo/"
+  },
+  {
+    "name": "Prima",
+    "taglink": "Prima/"
+  },
+  {
+    "name": "Flow",
+    "taglink": "Flow/"
+  },
+  {
+    "name": "Jean Van Hamme",
+    "taglink": "Jean%20Van%20Hamme/"
+  },
+  {
+    "name": "Avantages",
+    "taglink": "Avantages/"
+  },
+  {
+    "name": "Le Monde diplomatique",
+    "taglink": "Le%20Monde%20diplomatique/"
+  },
+  {
+    "name": "Système D",
+    "taglink": "Syst%C3%A8me%20D/"
+  },
+  {
+    "name": "Question de Philo",
+    "taglink": "Question%20de%20Philo/"
+  },
+  {
+    "name": "Santé Revue",
+    "taglink": "Sant%C3%A9%20Revue/"
+  },
+  {
+    "name": "Lire",
+    "taglink": "Lire/"
+  },
+  {
+    "name": "Beaux Arts",
+    "taglink": "Beaux%20Arts/"
+  },
+  {
+    "name": "MX Magazine",
+    "taglink": "MX%20Magazine/"
+  },
+  {
+    "name": "La Fringale Culturelle",
+    "taglink": "La%20Fringale%20Culturelle/"
+  },
+  {
+    "name": "Industrie Hôtelière",
+    "taglink": "Industrie%20H%C3%B4teli%C3%A8re/"
+  },
+  {
+    "name": "Chasse",
+    "taglink": "Chasse/"
+  },
+  {
+    "name": "Plaisirs Sucrés",
+    "taglink": "Plaisirs%20Sucr%C3%A9s/"
+  },
+  {
+    "name": "30 Millions d’Amis",
+    "taglink": "30%20Millions%20d%E2%80%99Amis/"
+  },
+  {
+    "name": "Dr. Good",
+    "taglink": "Dr.%20Good/"
+  },
+  {
+    "name": "Sciences et Avenir",
+    "taglink": "Sciences%20et%20Avenir/"
+  },
+  {
+    "name": "Cosmopolitan",
+    "taglink": "Cosmopolitan/"
+  },
+  {
+    "name": "Elle à Table",
+    "taglink": "Elle%20%C3%A0%20Table/"
+  },
+  {
+    "name": "Marie Claire",
+    "taglink": "Marie%20Claire/"
+  },
+  {
+    "name": "Marie Claire Idées",
+    "taglink": "Marie%20Claire%20Id%C3%A9es/"
+  },
+  {
+    "name": "Elle Décoration",
+    "taglink": "Elle%20D%C3%A9coration/"
+  },
+  {
+    "name": "Esprit Bébé",
+    "taglink": "Esprit%20B%C3%A9b%C3%A9/"
+  },
+  {
+    "name": "Pédale",
+    "taglink": "P%C3%A9dale/"
+  },
+  {
+    "name": "Maisons et Ambiances",
+    "taglink": "Maisons%20et%20Ambiances/"
+  },
+  {
+    "name": "Michaël Le Galli",
+    "taglink": "Micha%C3%ABl%20Le%20Galli/"
+  },
+  {
+    "name": "Héloret",
+    "taglink": "H%C3%A9loret/"
+  },
+  {
+    "name": "Farid Ameur",
+    "taglink": "Farid%20Ameur/"
+  },
+  {
+    "name": "Travis",
+    "taglink": "Travis/"
+  },
+  {
+    "name": "Fred Duval",
+    "taglink": "Fred%20Duval/"
+  },
+  {
+    "name": "Christophe Quet",
+    "taglink": "Christophe%20Quet/"
+  },
+  {
+    "name": "La Revue du Vin de France",
+    "taglink": "La%20Revue%20du%20Vin%20de%20France/"
+  },
+  {
+    "name": "Automobile verte",
+    "taglink": "Automobile%20verte/"
+  },
+  {
+    "name": "Tracteurs",
+    "taglink": "Tracteurs/"
+  },
+  {
+    "name": "Parenthèse",
+    "taglink": "Parenth%C3%A8se/"
+  },
+  {
+    "name": "Dreams",
+    "taglink": "Dreams/"
+  },
+  {
+    "name": "The Edge Mag",
+    "taglink": "The%20Edge%20Mag/"
+  },
+  {
+    "name": "Rugby",
+    "taglink": "Rugby/"
+  },
+  {
+    "name": "Science & Vie Guerres & Histoire",
+    "taglink": "Science%20%26%20Vie%20Guerres%20%26%20Histoire/"
+  },
+  {
+    "name": "Destination Grèce",
+    "taglink": "Destination%20Gr%C3%A8ce/"
+  },
+  {
+    "name": "Diapason",
+    "taglink": "Diapason/"
+  },
+  {
+    "name": "Maison & Travaux Pro",
+    "taglink": "Maison%20%26%20Travaux%20Pro/"
+  },
+  {
+    "name": "Rolling Stone",
+    "taglink": "Rolling%20Stone/"
+  },
+  {
+    "name": "Détente Jardin",
+    "taglink": "D%C3%A9tente%20Jardin/"
+  },
+  {
+    "name": "Plus de Pep’s",
+    "taglink": "Plus%20de%20Pep%E2%80%99s/"
+  },
+  {
+    "name": "Action Commerciale",
+    "taglink": "Action%20Commerciale/"
+  },
+  {
+    "name": "Thorgal Saga",
+    "taglink": "Thorgal%20Saga/"
+  },
+  {
+    "name": "Corentin Rouge",
+    "taglink": "Corentin%20Rouge/"
+  },
+  {
+    "name": "XIII",
+    "taglink": "XIII/"
+  },
+  {
+    "name": "XIII Trilogy",
+    "taglink": "XIII%20Trilogy/"
+  },
+  {
+    "name": "Olivier TaDuc",
+    "taglink": "Olivier%20TaDuc/"
+  },
+  {
+    "name": "Aurélien Ducoudray",
+    "taglink": "Aur%C3%A9lien%20Ducoudray/"
+  },
+  {
+    "name": "Fred Druart",
+    "taglink": "Fred%20Druart/"
+  },
+  {
+    "name": "Roger Deltour",
+    "taglink": "Roger%20Deltour/"
+  },
+  {
+    "name": "Raoul Cauvin",
+    "taglink": "Raoul%20Cauvin/"
+  },
+  {
+    "name": "José-Luis Munuera",
+    "taglink": "Jos%C3%A9-Luis%20Munuera/"
+  },
+  {
+    "name": "Béka",
+    "taglink": "B%C3%A9ka/"
+  },
+  {
+    "name": "Histoire & Civilisations",
+    "taglink": "Histoire%20%26%20Civilisations/"
+  },
+  {
+    "name": "Bois",
+    "taglink": "Bois/"
+  },
+  {
+    "name": "Le Bouvet",
+    "taglink": "Le%20Bouvet/"
+  },
+  {
+    "name": "Wider",
+    "taglink": "Wider/"
+  },
+  {
+    "name": "Grimper",
+    "taglink": "Grimper/"
+  },
+  {
+    "name": "Entreprendre à l’international",
+    "taglink": "Entreprendre%20%C3%A0%20l%E2%80%99international/"
+  },
+  {
+    "name": "Coaching",
+    "taglink": "Coaching/"
+  },
+  {
+    "name": "Dossier Familial",
+    "taglink": "Dossier%20Familial/"
+  },
+  {
+    "name": "Q-Ha",
+    "taglink": "Q-Ha/"
+  },
+  {
+    "name": "Anne-Caroline Pandolfo",
+    "taglink": "Anne-Caroline%20Pandolfo/"
+  },
+  {
+    "name": "Terkel Risbjerg",
+    "taglink": "Terkel%20Risbjerg/"
+  },
+  {
+    "name": "Thiago Souto",
+    "taglink": "Thiago%20Souto/"
+  },
+  {
+    "name": "Night Club",
+    "taglink": "Night%20Club/"
+  },
+  {
+    "name": "Juanan Ramírez",
+    "taglink": "Juanan%20Ram%C3%ADrez/"
+  },
+  {
+    "name": "Tales of Héraclès",
+    "taglink": "Tales%20of%20H%C3%A9racl%C3%A8s/"
+  },
+  {
+    "name": "René Goscinny",
+    "taglink": "Ren%C3%A9%20Goscinny/"
+  },
+  {
+    "name": "GREG",
+    "taglink": "GREG/"
+  },
+  {
+    "name": "Healthy Food",
+    "taglink": "Healthy%20Food/"
+  },
+  {
+    "name": "Super Picsou Géant",
+    "taglink": "Super%20Picsou%20G%C3%A9ant/"
+  },
+  {
+    "name": "GP Racing",
+    "taglink": "GP%20Racing/"
+  },
+  {
+    "name": "Moto Sport Suisse",
+    "taglink": "Moto%20Sport%20Suisse/"
+  },
+  {
+    "name": "Avus",
+    "taglink": "Avus/"
+  },
+  {
+    "name": "Art & Décoration",
+    "taglink": "Art%20%26%20D%C3%A9coration/"
+  },
+  {
+    "name": "Le Zéphyr",
+    "taglink": "Le%20Z%C3%A9phyr/"
+  },
+  {
+    "name": "Géostratégie",
+    "taglink": "G%C3%A9ostrat%C3%A9gie/"
+  },
+  {
+    "name": "Dossier Santé",
+    "taglink": "Dossier%20Sant%C3%A9/"
+  },
+  {
+    "name": "Glam Mag",
+    "taglink": "Glam%20Mag/"
+  },
+  {
+    "name": "Notre Beauté",
+    "taglink": "Notre%20Beaut%C3%A9/"
+  },
+  {
+    "name": "Le Monde du Plein Air",
+    "taglink": "Le%20Monde%20du%20Plein%20Air/"
+  },
+  {
+    "name": "Plein Air",
+    "taglink": "Plein%20Air/"
+  },
+  {
+    "name": "Graffiti Art",
+    "taglink": "Graffiti%20Art/"
+  },
+  {
+    "name": "Restauration Collective",
+    "taglink": "Restauration%20Collective/"
+  },
+  {
+    "name": "Tendances Restauration",
+    "taglink": "Tendances%20Restauration/"
+  },
+  {
+    "name": "Spécial France",
+    "taglink": "Sp%C3%A9cial%20France/"
+  },
+  {
+    "name": "Le Courrier de l'Atlas",
+    "taglink": "Le%20Courrier%20de%20l%27Atlas/"
+  },
+  {
+    "name": "Marmiton",
+    "taglink": "Marmiton/"
+  },
+  {
+    "name": "En Magnum",
+    "taglink": "En%20Magnum/"
+  },
+  {
+    "name": "Art Absolument",
+    "taglink": "Art%20Absolument/"
+  },
+  {
+    "name": "Écologie 360",
+    "taglink": "%C3%89cologie%20360/"
+  },
+  {
+    "name": "Famille mag",
+    "taglink": "Famille%20mag/"
+  },
+  {
+    "name": "Christianisme Aujourd'hui",
+    "taglink": "Christianisme%20Aujourd%27hui/"
+  },
+  {
+    "name": "L'Epicurienne",
+    "taglink": "L%27Epicurienne/"
+  },
+  {
+    "name": "Robin Recht",
+    "taglink": "Robin%20Recht/"
+  },
+  {
+    "name": "Equinox",
+    "taglink": "Equinox/"
+  },
+  {
+    "name": "Aurélie Wellenstein",
+    "taglink": "Aur%C3%A9lie%20Wellenstein/"
+  },
+  {
+    "name": "Aurora Gate",
+    "taglink": "Aurora%20Gate/"
+  },
+  {
+    "name": "Kokopello",
+    "taglink": "Kokopello/"
+  },
+  {
+    "name": "Victor Lepointe",
+    "taglink": "Victor%20Lepointe/"
+  },
+  {
+    "name": "Romain Dutter",
+    "taglink": "Romain%20Dutter/"
+  },
+  {
+    "name": "Simon Géliot",
+    "taglink": "Simon%20G%C3%A9liot/"
+  },
+  {
+    "name": "Sorj Chalandon",
+    "taglink": "Sorj%20Chalandon/"
+  },
+  {
+    "name": "Hammerfall",
+    "taglink": "Hammerfall/"
+  },
+  {
+    "name": "Boris Talijancic",
+    "taglink": "Boris%20Talijancic/"
+  },
+  {
+    "name": "Bretons en Cuisine",
+    "taglink": "Bretons%20en%20Cuisine/"
+  },
+  {
+    "name": "Super VW",
+    "taglink": "Super%20VW/"
+  },
+  {
+    "name": "Voiles et Voiliers",
+    "taglink": "Voiles%20et%20Voiliers/"
+  },
+  {
+    "name": "Montres",
+    "taglink": "Montres/"
+  },
+  {
+    "name": "Followed",
+    "taglink": "Followed/"
+  },
+  {
+    "name": "Numéro 39",
+    "taglink": "Num%C3%A9ro%2039/"
+  },
+  {
+    "name": "Biblond",
+    "taglink": "Biblond/"
+  },
+  {
+    "name": "Armes de Chasse",
+    "taglink": "Armes%20de%20Chasse/"
+  },
+  {
+    "name": "Guitarist Acoustic",
+    "taglink": "Guitarist%20Acoustic/"
+  },
+  {
+    "name": "Bretons",
+    "taglink": "Bretons/"
+  },
+  {
+    "name": "Réforme",
+    "taglink": "R%C3%A9forme/"
+  },
+  {
+    "name": "Pyrénées",
+    "taglink": "Pyr%C3%A9n%C3%A9es/"
+  },
+  {
+    "name": "Bretagne",
+    "taglink": "Bretagne/"
+  },
+  {
+    "name": "Alpes",
+    "taglink": "Alpes/"
+  },
+  {
+    "name": "Christian Gine",
+    "taglink": "Christian%20Gine/"
+  },
+  {
+    "name": "Roger Seiter",
+    "taglink": "Roger%20Seiter/"
+  },
+  {
+    "name": "Amaya Alsumard",
+    "taglink": "Amaya%20Alsumard/"
+  },
+  {
+    "name": "Renaud Farace",
+    "taglink": "Renaud%20Farace/"
+  },
+  {
+    "name": "Jean-Luc Cornette",
+    "taglink": "Jean-Luc%20Cornette/"
+  },
+  {
+    "name": "Jürg",
+    "taglink": "J%C3%BCrg/"
+  },
+  {
+    "name": "Mathilde Ducrest",
+    "taglink": "Mathilde%20Ducrest/"
+  },
+  {
+    "name": "Vivre est dangereux pour la santé",
+    "taglink": "Vivre%20est%20dangereux%20pour%20la%20sant%C3%A9/"
+  },
+  {
+    "name": "Espé",
+    "taglink": "Esp%C3%A9/"
+  },
+  {
+    "name": "Patrick Banon",
+    "taglink": "Patrick%20Banon/"
+  },
+  {
+    "name": "Antoine Pateau",
+    "taglink": "Antoine%20Pateau/"
+  },
+  {
+    "name": "Guy Vidal",
+    "taglink": "Guy%20Vidal/"
+  },
+  {
+    "name": "Rustica Pratique",
+    "taglink": "Rustica%20Pratique/"
+  },
+  {
+    "name": "Sangre",
+    "taglink": "Sangre/"
+  },
+  {
+    "name": "Christophe Arleston",
+    "taglink": "Christophe%20Arleston/"
+  },
+  {
+    "name": "Stefano Vergani",
+    "taglink": "Stefano%20Vergani/"
+  },
+  {
+    "name": "L’Auto-Journal Évasion 4x4",
+    "taglink": "L%E2%80%99Auto-Journal%20%C3%89vasion%204x4/"
+  },
+  {
+    "name": "le menu",
+    "taglink": "le%20menu/"
+  },
+  {
+    "name": "The Good Life",
+    "taglink": "The%20Good%20Life/"
+  },
+  {
+    "name": "Ideat",
+    "taglink": "Ideat/"
+  },
+  {
+    "name": "Les Idées de ma maison",
+    "taglink": "Les%20Id%C3%A9es%20de%20ma%20maison/"
+  },
+  {
+    "name": "Le Journal de la Maison",
+    "taglink": "Le%20Journal%20de%20la%20Maison/"
+  },
+  {
+    "name": "Maisons Côté Est",
+    "taglink": "Maisons%20C%C3%B4t%C3%A9%20Est/"
+  },
+  {
+    "name": "Vivre Côté Paris",
+    "taglink": "Vivre%20C%C3%B4t%C3%A9%20Paris/"
+  },
+  {
+    "name": "Magicmaman",
+    "taglink": "Magicmaman/"
+  },
+  {
+    "name": "Magicmaman Collection",
+    "taglink": "Magicmaman%20Collection/"
+  },
+  {
+    "name": "L'Officiel",
+    "taglink": "L%27Officiel/"
+  },
+  {
+    "name": "L'Officiel Paris",
+    "taglink": "L%27Officiel%20Paris/"
+  },
+  {
+    "name": "La Recherche",
+    "taglink": "La%20Recherche/"
+  },
+  {
+    "name": "Système D Bricothèmes",
+    "taglink": "Syst%C3%A8me%20D%20Bricoth%C3%A8mes/"
+  },
+  {
+    "name": "Auto Plus Guide De L’Acheteur",
+    "taglink": "Auto%20Plus%20Guide%20De%20L%E2%80%99Acheteur/"
+  },
+  {
+    "name": "Le Figaro Voyage",
+    "taglink": "Le%20Figaro%20Voyage/"
+  },
+  {
+    "name": "Le Revenu Placements",
+    "taglink": "Le%20Revenu%20Placements/"
+  },
+  {
+    "name": "Cerveau & Psycho",
+    "taglink": "Cerveau%20%26%20Psycho/"
+  },
+  {
+    "name": "Ça M’intéresse Histoire",
+    "taglink": "%C3%87a%20M%E2%80%99int%C3%A9resse%20Histoire/"
+  },
+  {
+    "name": "Adrien Floch",
+    "taglink": "Adrien%20Floch/"
+  },
+  {
+    "name": "Fred Blanchard",
+    "taglink": "Fred%20Blanchard/"
+  },
+  {
+    "name": "Le Juge",
+    "taglink": "Le%20Juge/"
+  },
+  {
+    "name": "la République assassinée",
+    "taglink": "la%20R%C3%A9publique%20assassin%C3%A9e/"
+  },
+  {
+    "name": "Olivier Berlion",
+    "taglink": "Olivier%20Berlion/"
+  },
+  {
+    "name": "L'Informaticien",
+    "taglink": "L%27Informaticien/"
+  },
+  {
+    "name": "Le Chef",
+    "taglink": "Le%20Chef/"
+  },
+  {
+    "name": "Marie Claire Maison",
+    "taglink": "Marie%20Claire%20Maison/"
+  },
+  {
+    "name": "Spécial Chiens",
+    "taglink": "Sp%C3%A9cial%20Chiens/"
+  },
+  {
+    "name": "Spécial Chats",
+    "taglink": "Sp%C3%A9cial%20Chats/"
+  },
+  {
+    "name": "Le Magazine de l’Aviation",
+    "taglink": "Le%20Magazine%20de%20l%E2%80%99Aviation/"
+  },
+  {
+    "name": "Pianiste",
+    "taglink": "Pianiste/"
+  },
+  {
+    "name": "Ma Campagne",
+    "taglink": "Ma%20Campagne/"
+  },
+  {
+    "name": "Les Mondes perdu",
+    "taglink": "Les%20Mondes%20perdu/"
+  },
+  {
+    "name": "Aucha",
+    "taglink": "Aucha/"
+  },
+  {
+    "name": "Isabelle Lemaux-Piedfert",
+    "taglink": "Isabelle%20Lemaux-Piedfert/"
+  },
+  {
+    "name": "Le Palais des Assassins",
+    "taglink": "Le%20Palais%20des%20Assassins/"
+  },
+  {
+    "name": "Tabasa Iori",
+    "taglink": "Tabasa%20Iori/"
+  },
+  {
+    "name": "Steve Cuzor",
+    "taglink": "Steve%20Cuzor/"
+  },
+  {
+    "name": "Olivier Grenson",
+    "taglink": "Olivier%20Grenson/"
+  },
+  {
+    "name": "Max de Radiguès",
+    "taglink": "Max%20de%20Radigu%C3%A8s/"
+  },
+  {
+    "name": "Jack Manini",
+    "taglink": "Jack%20Manini/"
+  },
+  {
+    "name": "Michel Chevereau",
+    "taglink": "Michel%20Chevereau/"
+  },
+  {
+    "name": "Lodewijk",
+    "taglink": "Lodewijk/"
+  },
+  {
+    "name": "Albums",
+    "taglink": "Albums/"
+  },
+  {
+    "name": "Luxe Infinity",
+    "taglink": "Luxe%20Infinity/"
+  },
+  {
+    "name": "Le Soir",
+    "taglink": "Le%20Soir/"
+  },
+  {
+    "name": "La Dernière Heure",
+    "taglink": "La%20Derni%C3%A8re%20Heure/"
+  },
+  {
+    "name": "La Dernière Heure Bruxelles",
+    "taglink": "La%20Derni%C3%A8re%20Heure%20Bruxelles/"
+  },
+  {
+    "name": "DH",
+    "taglink": "DH/"
+  },
+  {
+    "name": "Le Devoir",
+    "taglink": "Le%20Devoir/"
+  },
+  {
+    "name": "L'Essentiel de l'Auto",
+    "taglink": "L%27Essentiel%20de%20l%27Auto/"
+  },
+  {
+    "name": "Guitar Part",
+    "taglink": "Guitar%20Part/"
+  },
+  {
+    "name": "Aurélien Morinière",
+    "taglink": "Aur%C3%A9lien%20Morini%C3%A8re/"
+  },
+  {
+    "name": "Jean-Claude Bartoll",
+    "taglink": "Jean-Claude%20Bartoll/"
+  },
+  {
+    "name": "Spirou et Fantasio Classique",
+    "taglink": "Spirou%20et%20Fantasio%20Classique/"
+  },
+  {
+    "name": "Michaël Baril",
+    "taglink": "Micha%C3%ABl%20Baril/"
+  },
+  {
+    "name": "Elric Dufau",
+    "taglink": "Elric%20Dufau/"
+  },
+  {
+    "name": "Clément Lemoine",
+    "taglink": "Cl%C3%A9ment%20Lemoine/"
+  },
+  {
+    "name": "Petits Dieux",
+    "taglink": "Petits%20Dieux/"
+  },
+  {
+    "name": "Mathieu Salvia",
+    "taglink": "Mathieu%20Salvia/"
+  },
+  {
+    "name": "Krystel",
+    "taglink": "Krystel/"
+  },
+  {
+    "name": "Saint-Elme",
+    "taglink": "Saint-Elme/"
+  },
+  {
+    "name": "Serge Lehman",
+    "taglink": "Serge%20Lehman/"
+  },
+  {
+    "name": "Frederik Peeters",
+    "taglink": "Frederik%20Peeters/"
+  },
+  {
+    "name": "La Légende de Drizzt",
+    "taglink": "La%20L%C3%A9gende%20de%20Drizzt/"
+  },
+  {
+    "name": "R. A. Salvatore",
+    "taglink": "R.%20A.%20Salvatore/"
+  },
+  {
+    "name": "Andrew Dabb",
+    "taglink": "Andrew%20Dabb/"
+  },
+  {
+    "name": "Tim Seeley",
+    "taglink": "Tim%20Seeley/"
+  },
+  {
+    "name": "KGB",
+    "taglink": "KGB/"
+  },
+  {
+    "name": "Valérie Mangin",
+    "taglink": "Val%C3%A9rie%20Mangin/"
+  },
+  {
+    "name": "Malo Kerfriden",
+    "taglink": "Malo%20Kerfriden/"
+  },
+  {
+    "name": "Patrice Buendia",
+    "taglink": "Patrice%20Buendia/"
+  },
+  {
+    "name": "Jean-Marc Stalner",
+    "taglink": "Jean-Marc%20Stalner/"
+  },
+  {
+    "name": "Charles Dickens",
+    "taglink": "Charles%20Dickens/"
+  },
+  {
+    "name": "Le Petit Théâtre des Opérations présente",
+    "taglink": "Le%20Petit%20Th%C3%A9%C3%A2tre%20des%20Op%C3%A9rations%20pr%C3%A9sente/"
+  },
+  {
+    "name": "Julien Hervieux",
+    "taglink": "Julien%20Hervieux/"
+  },
+  {
+    "name": "Vincent Malgras",
+    "taglink": "Vincent%20Malgras/"
+  },
+  {
+    "name": "Camille Prieur",
+    "taglink": "Camille%20Prieur/"
+  },
+  {
+    "name": "Pax Elfica",
+    "taglink": "Pax%20Elfica/"
+  },
+  {
+    "name": "Bruno Pietrantonio",
+    "taglink": "Bruno%20Pietrantonio/"
+  },
+  {
+    "name": "Hirodjee",
+    "taglink": "Hirodjee/"
+  },
+  {
+    "name": "Magenta King",
+    "taglink": "Magenta%20King/"
+  },
+  {
+    "name": "Myrtis",
+    "taglink": "Myrtis/"
+  },
+  {
+    "name": "Elsa Brants",
+    "taglink": "Elsa%20Brants/"
+  },
+  {
+    "name": "Cicatrices",
+    "taglink": "Cicatrices/"
+  },
+  {
+    "name": "Brandon Arias",
+    "taglink": "Brandon%20Arias/"
+  },
+  {
+    "name": "Moto Heroes",
+    "taglink": "Moto%20Heroes/"
+  },
+  {
+    "name": "Seniors Actuels",
+    "taglink": "Seniors%20Actuels/"
+  },
+  {
+    "name": "Encore",
+    "taglink": "Encore/"
+  },
+  {
+    "name": "Winoc",
+    "taglink": "Winoc/"
+  },
+  {
+    "name": "Amélie Causse",
+    "taglink": "Am%C3%A9lie%20Causse/"
+  },
+  {
+    "name": "Hergé",
+    "taglink": "Herg%C3%A9/"
+  },
+  {
+    "name": "Le reste du monde",
+    "taglink": "Le%20reste%20du%20monde/"
+  },
+  {
+    "name": "Jean-Christophe Chauzy",
+    "taglink": "Jean-Christophe%20Chauzy/"
+  },
+  {
+    "name": "Milk",
+    "taglink": "Milk/"
+  },
+  {
+    "name": "Milk Kid's Collections",
+    "taglink": "Milk%20Kid%27s%20Collections/"
+  },
+  {
+    "name": "Le Spectacle du Monde",
+    "taglink": "Le%20Spectacle%20du%20Monde/"
+  },
+  {
+    "name": "EcoRéseau",
+    "taglink": "EcoR%C3%A9seau/"
+  },
+  {
+    "name": "marina.ch",
+    "taglink": "marina.ch/"
+  },
+  {
+    "name": "Socialter",
+    "taglink": "Socialter/"
+  },
+  {
+    "name": "Ekhö monde miroir",
+    "taglink": "Ekh%C3%B6%20monde%20miroir/"
+  },
+  {
+    "name": "Alessandro Barbucci",
+    "taglink": "Alessandro%20Barbucci/"
+  },
+  {
+    "name": "Coup de Pouce",
+    "taglink": "Coup%20de%20Pouce/"
+  },
+  {
+    "name": "Dr. Good C’est bon",
+    "taglink": "Dr.%20Good%20C%E2%80%99est%20bon/"
+  },
+  {
+    "name": "Silicon",
+    "taglink": "Silicon/"
+  },
+  {
+    "name": "Milk Decoration",
+    "taglink": "Milk%20Decoration/"
+  },
+  {
+    "name": "Combi",
+    "taglink": "Combi/"
+  },
+  {
+    "name": "CB News",
+    "taglink": "CB%20News/"
+  },
+  {
+    "name": "Échappée Vélo",
+    "taglink": "%C3%89chapp%C3%A9e%20V%C3%A9lo/"
+  },
+  {
+    "name": "Paris Confidences",
+    "taglink": "Paris%20Confidences/"
+  },
+  {
+    "name": "Maison Campagne Jardin",
+    "taglink": "Maison%20Campagne%20Jardin/"
+  },
+  {
+    "name": "Auto Plus Classiques",
+    "taglink": "Auto%20Plus%20Classiques/"
+  },
+  {
+    "name": "Moto Revue Classic",
+    "taglink": "Moto%20Revue%20Classic/"
+  },
+  {
+    "name": "Gestion",
+    "taglink": "Gestion/"
+  },
+  {
+    "name": "Prométhée",
+    "taglink": "Prom%C3%A9th%C3%A9e/"
+  },
+  {
+    "name": "Jean Diaz",
+    "taglink": "Jean%20Diaz/"
+  },
+  {
+    "name": "Moto Magazine",
+    "taglink": "Moto%20Magazine/"
+  },
+  {
+    "name": "Bilan",
+    "taglink": "Bilan/"
+  },
+  {
+    "name": "Bilan Luxe",
+    "taglink": "Bilan%20Luxe/"
+  },
+  {
+    "name": "Vicq",
+    "taglink": "Vicq/"
+  },
+  {
+    "name": "Auto Plus Occasions",
+    "taglink": "Auto%20Plus%20Occasions/"
+  },
+  {
+    "name": "GQ",
+    "taglink": "GQ/"
+  },
+  {
+    "name": "Technosaures",
+    "taglink": "Technosaures/"
+  },
+  {
+    "name": "Santé Info",
+    "taglink": "Sant%C3%A9%20Info/"
+  },
+  {
+    "name": "Vital",
+    "taglink": "Vital/"
+  },
+  {
+    "name": "Vital Food",
+    "taglink": "Vital%20Food/"
+  },
+  {
+    "name": "Mon Petit Science & Vie avec Nano",
+    "taglink": "Mon%20Petit%20Science%20%26%20Vie%20avec%20Nano/"
+  },
+  {
+    "name": "Les Cahiers de Science & Vie",
+    "taglink": "Les%20Cahiers%20de%20Science%20%26%20Vie/"
+  },
+  {
+    "name": "Les héritiers d'Agïone",
+    "taglink": "Les%20h%C3%A9ritiers%20d%27Ag%C3%AFone/"
+  },
+  {
+    "name": "Tpiu",
+    "taglink": "Tpiu/"
+  },
+  {
+    "name": "Marlysa",
+    "taglink": "Marlysa/"
+  },
+  {
+    "name": "Jean-Pierre Danard",
+    "taglink": "Jean-Pierre%20Danard/"
+  },
+  {
+    "name": "Jérémie Moreau",
+    "taglink": "J%C3%A9r%C3%A9mie%20Moreau/"
+  },
+  {
+    "name": "Marzena Sowa",
+    "taglink": "Marzena%20Sowa/"
+  },
+  {
+    "name": "Sylvain Savoia",
+    "taglink": "Sylvain%20Savoia/"
+  },
+  {
+    "name": "Gaël Faye",
+    "taglink": "Ga%C3%ABl%20Faye/"
+  },
+  {
+    "name": "Voutch",
+    "taglink": "Voutch/"
+  },
+  {
+    "name": "Séverine Gauthier",
+    "taglink": "S%C3%A9verine%20Gauthier/"
+  },
+  {
+    "name": "Jérémie Almanza",
+    "taglink": "J%C3%A9r%C3%A9mie%20Almanza/"
+  },
+  {
+    "name": "Chroniques Barbares",
+    "taglink": "Chroniques%20Barbares/"
+  },
+  {
+    "name": "Jean-Yves Mitton",
+    "taglink": "Jean-Yves%20Mitton/"
+  },
+  {
+    "name": "Zeweed",
+    "taglink": "Zeweed/"
+  },
+  {
+    "name": "Relation Client",
+    "taglink": "Relation%20Client/"
+  },
+  {
+    "name": "Décision Achats",
+    "taglink": "D%C3%A9cision%20Achats/"
+  },
+  {
+    "name": "DAF",
+    "taglink": "DAF/"
+  },
+  {
+    "name": "Royauté",
+    "taglink": "Royaut%C3%A9/"
+  },
+  {
+    "name": "Top Maman",
+    "taglink": "Top%20Maman/"
+  },
+  {
+    "name": "Arnaud De La Croix",
+    "taglink": "Arnaud%20De%20La%20Croix/"
+  },
+  {
+    "name": "Vincent Cifuentes",
+    "taglink": "Vincent%20Cifuentes/"
+  },
+  {
+    "name": "Charles Soule",
+    "taglink": "Charles%20Soule/"
+  },
+  {
+    "name": "Ryan Browne",
+    "taglink": "Ryan%20Browne/"
+  },
+  {
+    "name": "Hervé Loiselet",
+    "taglink": "Herv%C3%A9%20Loiselet/"
+  },
+  {
+    "name": "Antonin Dubuisson",
+    "taglink": "Antonin%20Dubuisson/"
+  },
+  {
+    "name": "Camille Pascal",
+    "taglink": "Camille%20Pascal/"
+  },
+  {
+    "name": "L'institutrice",
+    "taglink": "L%27institutrice/"
+  },
+  {
+    "name": "Carole Maurel",
+    "taglink": "Carole%20Maurel/"
+  },
+  {
+    "name": "Yves Lavandier",
+    "taglink": "Yves%20Lavandier/"
+  },
+  {
+    "name": "Carnet De Voyage Au Pakistan",
+    "taglink": "Carnet%20De%20Voyage%20Au%20Pakistan/"
+  },
+  {
+    "name": "Renaud De Heyn",
+    "taglink": "Renaud%20De%20Heyn/"
+  },
+  {
+    "name": "The Red Bulletin",
+    "taglink": "The%20Red%20Bulletin/"
+  },
+  {
+    "name": "Axel",
+    "taglink": "Axel/"
+  },
+  {
+    "name": "Vincent Henry",
+    "taglink": "Vincent%20Henry/"
+  },
+  {
+    "name": "Valeria Guffanti",
+    "taglink": "Valeria%20Guffanti/"
+  },
+  {
+    "name": "Virginie Grimaldi",
+    "taglink": "Virginie%20Grimaldi/"
+  },
+  {
+    "name": "L'homme étoilé",
+    "taglink": "L%27homme%20%C3%A9toil%C3%A9/"
+  },
+  {
+    "name": "Miyako Kojima",
+    "taglink": "Miyako%20Kojima/"
+  },
+  {
+    "name": "Thomas Campi",
+    "taglink": "Thomas%20Campi/"
+  },
+  {
+    "name": "Léon Tolstoï",
+    "taglink": "L%C3%A9on%20Tolsto%C3%AF/"
+  },
+  {
+    "name": "Reimena Yee",
+    "taglink": "Reimena%20Yee/"
+  },
+  {
+    "name": "Le marchand de Tapis de Constantinople",
+    "taglink": "Le%20marchand%20de%20Tapis%20de%20Constantinople/"
+  },
+  {
+    "name": "Automobile revue",
+    "taglink": "Automobile%20revue/"
+  },
+  {
+    "name": "Auto Magazine",
+    "taglink": "Auto%20Magazine/"
+  },
+  {
+    "name": "Cuisine",
+    "taglink": "Cuisine/"
+  },
+  {
+    "name": "Spécial Paranormal",
+    "taglink": "Sp%C3%A9cial%20Paranormal/"
+  },
+  {
+    "name": "Johnny",
+    "taglink": "Johnny/"
+  },
+  {
+    "name": "France Stars",
+    "taglink": "France%20Stars/"
+  },
+  {
+    "name": "Gossip",
+    "taglink": "Gossip/"
+  },
+  {
+    "name": "Crimes",
+    "taglink": "Crimes/"
+  },
+  {
+    "name": "Inspecteur",
+    "taglink": "Inspecteur/"
+  },
+  {
+    "name": "Royal Life",
+    "taglink": "Royal%20Life/"
+  },
+  {
+    "name": "Vérité",
+    "taglink": "V%C3%A9rit%C3%A9/"
+  },
+  {
+    "name": "Fine Fleur",
+    "taglink": "Fine%20Fleur/"
+  },
+  {
+    "name": "Maisons Normandie",
+    "taglink": "Maisons%20Normandie/"
+  },
+  {
+    "name": "Slum Kids",
+    "taglink": "Slum%20Kids/"
+  },
+  {
+    "name": "Petit Rapace",
+    "taglink": "Petit%20Rapace/"
+  },
+  {
+    "name": "Judith Cohen Solal",
+    "taglink": "Judith%20Cohen%20Solal/"
+  },
+  {
+    "name": "Jonathan Hayoun",
+    "taglink": "Jonathan%20Hayoun/"
+  },
+  {
+    "name": "Nikolas Otéro",
+    "taglink": "Nikolas%20Ot%C3%A9ro/"
+  },
+  {
+    "name": "Sebastià Cabot",
+    "taglink": "Sebasti%C3%A0%20Cabot/"
+  },
+  {
+    "name": "Nicolas Keramidas",
+    "taglink": "Nicolas%20Keramidas/"
+  },
+  {
+    "name": "Une nuit à Rome",
+    "taglink": "Une%20nuit%20%C3%A0%20Rome/"
+  },
+  {
+    "name": "Jim",
+    "taglink": "Jim/"
+  },
+  {
+    "name": "Auto Plus Vert",
+    "taglink": "Auto%20Plus%20Vert/"
+  },
+  {
+    "name": "Que Choisir Pratique",
+    "taglink": "Que%20Choisir%20Pratique/"
+  },
+  {
+    "name": "PC Trucs et Astuces",
+    "taglink": "PC%20Trucs%20et%20Astuces/"
+  },
+  {
+    "name": "Tanin",
+    "taglink": "Tanin/"
+  },
+  {
+    "name": "Bien-Dire Initial",
+    "taglink": "Bien-Dire%20Initial/"
+  },
+  {
+    "name": "Le maître de jeu",
+    "taglink": "Le%20ma%C3%AEtre%20de%20jeu/"
+  },
+  {
+    "name": "Horne",
+    "taglink": "Horne/"
+  },
+  {
+    "name": "Québec Science",
+    "taglink": "Qu%C3%A9bec%20Science/"
+  },
+  {
+    "name": "Be a Boss",
+    "taglink": "Be%20a%20Boss/"
+  },
+  {
+    "name": "Ludwig Alizon",
+    "taglink": "Ludwig%20Alizon/"
+  },
+  {
+    "name": "Destination France",
+    "taglink": "Destination%20France/"
+  },
+  {
+    "name": "Direction Canada",
+    "taglink": "Direction%20Canada/"
+  },
+  {
+    "name": "Auto Moto",
+    "taglink": "Auto%20Moto/"
+  },
+  {
+    "name": "Thuries",
+    "taglink": "Thuries/"
+  },
+  {
+    "name": "Vigneron",
+    "taglink": "Vigneron/"
+  },
+  {
+    "name": "Pratique des Arts",
+    "taglink": "Pratique%20des%20Arts/"
+  },
+  {
+    "name": "Forbes Afrique",
+    "taglink": "Forbes%20Afrique/"
+  },
+  {
+    "name": "Lyon Mag",
+    "taglink": "Lyon%20Mag/"
+  },
+  {
+    "name": "Ed Brubaker",
+    "taglink": "Ed%20Brubaker/"
+  },
+  {
+    "name": "Sean Phillips",
+    "taglink": "Sean%20Phillips/"
+  },
+  {
+    "name": "Reckless",
+    "taglink": "Reckless/"
+  },
+  {
+    "name": "Jonathan Munoz",
+    "taglink": "Jonathan%20Munoz/"
+  },
+  {
+    "name": "Seul survivant",
+    "taglink": "Seul%20survivant/"
+  },
+  {
+    "name": "Christophe Martinolli",
+    "taglink": "Christophe%20Martinolli/"
+  },
+  {
+    "name": "Thomas Martinetti",
+    "taglink": "Thomas%20Martinetti/"
+  },
+  {
+    "name": "Jose Malaga",
+    "taglink": "Jose%20Malaga/"
+  },
+  {
+    "name": "mOTUS",
+    "taglink": "mOTUS/"
+  },
+  {
+    "name": "Lucio Alberto Leoni",
+    "taglink": "Lucio%20Alberto%20Leoni/"
+  },
+  {
+    "name": "Emanuela Negrin",
+    "taglink": "Emanuela%20Negrin/"
+  },
+  {
+    "name": "Le Particulier Immobilier",
+    "taglink": "Le%20Particulier%20Immobilier/"
+  },
+  {
+    "name": "Santé Naturelle",
+    "taglink": "Sant%C3%A9%20Naturelle/"
+  },
+  {
+    "name": "Road Trip",
+    "taglink": "Road%20Trip/"
+  },
+  {
+    "name": "Style Campagne",
+    "taglink": "Style%20Campagne/"
+  },
+  {
+    "name": "Félins pour l'autre",
+    "taglink": "F%C3%A9lins%20pour%20l%27autre/"
+  },
+  {
+    "name": "Le grimoire d'Elfie",
+    "taglink": "Le%20grimoire%20d%27Elfie/"
+  },
+  {
+    "name": "Audrey Alwett",
+    "taglink": "Audrey%20Alwett/"
+  },
+  {
+    "name": "Mini Ludvin",
+    "taglink": "Mini%20Ludvin/"
+  },
+  {
+    "name": "Marion Mousse",
+    "taglink": "Marion%20Mousse/"
+  },
+  {
+    "name": "Wonder Woman",
+    "taglink": "Wonder%20Woman/"
+  },
+  {
+    "name": "Kelly Sue Deconnick",
+    "taglink": "Kelly%20Sue%20Deconnick/"
+  },
+  {
+    "name": "Phil Jimenez",
+    "taglink": "Phil%20Jimenez/"
+  },
+  {
+    "name": "Gene Ha",
+    "taglink": "Gene%20Ha/"
+  },
+  {
+    "name": "Nicola Scott",
+    "taglink": "Nicola%20Scott/"
+  },
+  {
+    "name": "comic",
+    "taglink": "comic/"
+  },
+  {
+    "name": "Bertrand Galic",
+    "taglink": "Bertrand%20Galic/"
+  },
+  {
+    "name": "Roger Vidal",
+    "taglink": "Roger%20Vidal/"
+  },
+  {
+    "name": "Gregory Charlet",
+    "taglink": "Gregory%20Charlet/"
+  },
+  {
+    "name": "Electroniques",
+    "taglink": "Electroniques/"
+  },
+  {
+    "name": "Esprit Bonsaï",
+    "taglink": "Esprit%20Bonsa%C3%AF/"
+  },
+  {
+    "name": "Régions",
+    "taglink": "R%C3%A9gions/"
+  },
+  {
+    "name": "Régions Supplément",
+    "taglink": "R%C3%A9gions%20Suppl%C3%A9ment/"
+  },
+  {
+    "name": "Bilan Formation",
+    "taglink": "Bilan%20Formation/"
+  },
+  {
+    "name": "Photo Magazine",
+    "taglink": "Photo%20Magazine/"
+  },
+  {
+    "name": "Mission Patrimoine",
+    "taglink": "Mission%20Patrimoine/"
+  },
+  {
+    "name": "Betty Bossi",
+    "taglink": "Betty%20Bossi/"
+  },
+  {
+    "name": "Histoire Française",
+    "taglink": "Histoire%20Fran%C3%A7aise/"
+  },
+  {
+    "name": "Argus Euros",
+    "taglink": "Argus%20Euros/"
+  },
+  {
+    "name": "Kezako Mundi",
+    "taglink": "Kezako%20Mundi/"
+  },
+  {
+    "name": "Science Fiction",
+    "taglink": "Science%20Fiction/"
+  },
+  {
+    "name": "Points de Ventes",
+    "taglink": "Points%20de%20Ventes/"
+  },
+  {
+    "name": "Courants d'air",
+    "taglink": "Courants%20d%27air/"
+  },
+  {
+    "name": "Le Figaro Sport",
+    "taglink": "Le%20Figaro%20Sport/"
+  },
+  {
+    "name": "Buonaparte",
+    "taglink": "Buonaparte/"
+  },
+  {
+    "name": "Rudi Miel",
+    "taglink": "Rudi%20Miel/"
+  },
+  {
+    "name": "Fabienne Pigière",
+    "taglink": "Fabienne%20Pigi%C3%A8re/"
+  },
+  {
+    "name": "Ivan Gil",
+    "taglink": "Ivan%20Gil/"
+  },
+  {
+    "name": "Stefano Raffaele",
+    "taglink": "Stefano%20Raffaele/"
+  },
+  {
+    "name": "Connaissance des Arts",
+    "taglink": "Connaissance%20des%20Arts/"
+  },
+  {
+    "name": "Décisions",
+    "taglink": "D%C3%A9cisions/"
+  },
+  {
+    "name": "Marketing",
+    "taglink": "Marketing/"
+  },
+  {
+    "name": "Clin d’œil",
+    "taglink": "Clin%20d%E2%80%99%C5%93il/"
+  },
+  {
+    "name": "Le Figaro Histoire",
+    "taglink": "Le%20Figaro%20Histoire/"
+  },
+  {
+    "name": "Harper's Bazaar",
+    "taglink": "Harper%27s%20Bazaar/"
+  },
+  {
+    "name": "Mieux Vivre Votre Argent",
+    "taglink": "Mieux%20Vivre%20Votre%20Argent/"
+  },
+  {
+    "name": "Grande Galerie",
+    "taglink": "Grande%20Galerie/"
+  },
+  {
+    "name": "2",
+    "taglink": "2/"
+  },
+  {
+    "name": "ON-mag",
+    "taglink": "ON-mag/"
+  },
+  {
+    "name": "Biographie",
+    "taglink": "Biographie/"
+  },
+  {
+    "name": "Le français dans le monde",
+    "taglink": "Le%20fran%C3%A7ais%20dans%20le%20monde/"
+  },
+  {
+    "name": "Architecture Bois",
+    "taglink": "Architecture%20Bois/"
+  },
+  {
+    "name": "Spécial Histoire",
+    "taglink": "Sp%C3%A9cial%20Histoire/"
+  },
+  {
+    "name": "Stéphane Louis",
+    "taglink": "St%C3%A9phane%20Louis/"
+  },
+  {
+    "name": "Jorge Miguel",
+    "taglink": "Jorge%20Miguel/"
+  },
+  {
+    "name": "Habemus Bastard",
+    "taglink": "Habemus%20Bastard/"
+  },
+  {
+    "name": "Jacky Schwartzmann",
+    "taglink": "Jacky%20Schwartzmann/"
+  },
+  {
+    "name": "Sylvain Vallée",
+    "taglink": "Sylvain%20Vall%C3%A9e/"
+  },
+  {
+    "name": "Fernando Dagnino",
+    "taglink": "Fernando%20Dagnino/"
+  },
+  {
+    "name": "Christopher Cantwell",
+    "taglink": "Christopher%20Cantwell/"
+  },
+  {
+    "name": "Pasqual Ferry",
+    "taglink": "Pasqual%20Ferry/"
+  },
+  {
+    "name": "Emilia Clarke",
+    "taglink": "Emilia%20Clarke/"
+  },
+  {
+    "name": "Marguerite Bennett",
+    "taglink": "Marguerite%20Bennett/"
+  },
+  {
+    "name": "Philippe Pelaez",
+    "taglink": "Philippe%20Pelaez/"
+  },
+  {
+    "name": "Bouncer",
+    "taglink": "Bouncer/"
+  },
+  {
+    "name": "Alejandro Jodorowsky",
+    "taglink": "Alejandro%20Jodorowsky/"
+  },
+  {
+    "name": "François Boucq",
+    "taglink": "Fran%C3%A7ois%20Boucq/"
+  },
+  {
+    "name": "American Legend",
+    "taglink": "American%20Legend/"
+  },
+  {
+    "name": "Nature Trail",
+    "taglink": "Nature%20Trail/"
+  },
+  {
+    "name": "Paris Capitale",
+    "taglink": "Paris%20Capitale/"
+  },
+  {
+    "name": "Maison & Jardin actuels",
+    "taglink": "Maison%20%26%20Jardin%20actuels/"
+  },
+  {
+    "name": "Le Monde diplomatique Manière de Voir",
+    "taglink": "Le%20Monde%20diplomatique%20Mani%C3%A8re%20de%20Voir/"
+  },
+  {
+    "name": "Gala Croisette",
+    "taglink": "Gala%20Croisette/"
+  },
+  {
+    "name": "Pierre Guilmard",
+    "taglink": "Pierre%20Guilmard/"
+  },
+  {
+    "name": "Alphonse Daudet",
+    "taglink": "Alphonse%20Daudet/"
+  },
+  {
+    "name": "Maxe L'Hermenier",
+    "taglink": "Maxe%20L%27Hermenier/"
+  },
+  {
+    "name": "Alexis Sentenac",
+    "taglink": "Alexis%20Sentenac/"
+  },
+  {
+    "name": "Brice Cossu",
+    "taglink": "Brice%20Cossu/"
+  },
+  {
+    "name": "Auto Heroes",
+    "taglink": "Auto%20Heroes/"
+  },
+  {
+    "name": "Batterie",
+    "taglink": "Batterie/"
+  },
+  {
+    "name": "Francesco Trifogli",
+    "taglink": "Francesco%20Trifogli/"
+  },
+  {
+    "name": "Yann Bécu",
+    "taglink": "Yann%20B%C3%A9cu/"
+  },
+  {
+    "name": "Pierre Pevel",
+    "taglink": "Pierre%20Pevel/"
+  },
+  {
+    "name": "Stéphane Créty",
+    "taglink": "St%C3%A9phane%20Cr%C3%A9ty/"
+  },
+  {
+    "name": "Gueule de cuir",
+    "taglink": "Gueule%20de%20cuir/"
+  },
+  {
+    "name": "Marco Checchetto",
+    "taglink": "Marco%20Checchetto/"
+  },
+  {
+    "name": "Spider-Man",
+    "taglink": "Spider-Man/"
+  },
+  {
+    "name": "Grands-Parents",
+    "taglink": "Grands-Parents/"
+  },
+  {
+    "name": "FRNCK",
+    "taglink": "FRNCK/"
+  },
+  {
+    "name": "Olivier Bocquet",
+    "taglink": "Olivier%20Bocquet/"
+  },
+  {
+    "name": "Auto Plus Crossovers",
+    "taglink": "Auto%20Plus%20Crossovers/"
+  },
+  {
+    "name": "L'essentiel Ferrari",
+    "taglink": "L%27essentiel%20Ferrari/"
+  },
+  {
+    "name": "Potager Bio de Saison",
+    "taglink": "Potager%20Bio%20de%20Saison/"
+  },
+  {
+    "name": "Écoute",
+    "taglink": "%C3%89coute/"
+  },
+  {
+    "name": "Spécial Femme",
+    "taglink": "Sp%C3%A9cial%20Femme/"
+  },
+  {
+    "name": "Resto",
+    "taglink": "Resto/"
+  },
+  {
+    "name": "Police Justice",
+    "taglink": "Police%20Justice/"
+  },
+  {
+    "name": "France Magazine",
+    "taglink": "France%20Magazine/"
+  },
+  {
+    "name": "Royal",
+    "taglink": "Royal/"
+  },
+  {
+    "name": "Ouah",
+    "taglink": "Ouah/"
+  },
+  {
+    "name": "Ecommerce",
+    "taglink": "Ecommerce/"
+  },
+  {
+    "name": "Échappement",
+    "taglink": "%C3%89chappement/"
+  },
+  {
+    "name": "Grands Hommes",
+    "taglink": "Grands%20Hommes/"
+  },
+  {
+    "name": "Info Jardin",
+    "taglink": "Info%20Jardin/"
+  },
+  {
+    "name": "Maison & Jardin",
+    "taglink": "Maison%20%26%20Jardin/"
+  },
+  {
+    "name": "40-A",
+    "taglink": "40-A/"
+  },
+  {
+    "name": "Journal du Golf",
+    "taglink": "Journal%20du%20Golf/"
+  },
+  {
+    "name": "Special Champions",
+    "taglink": "Special%20Champions/"
+  },
+  {
+    "name": "La Libre Belgique",
+    "taglink": "La%20Libre%20Belgique/"
+  },
+  {
+    "name": "C'est Votre Argent",
+    "taglink": "C%27est%20Votre%20Argent/"
+  },
+  {
+    "name": "Stop Arnaques",
+    "taglink": "Stop%20Arnaques/"
+  },
+  {
+    "name": "Féminin Senior Santé",
+    "taglink": "F%C3%A9minin%20Senior%20Sant%C3%A9/"
+  },
+  {
+    "name": "Santé revue",
+    "taglink": "Sant%C3%A9%20revue/"
+  },
+  {
+    "name": "Ovnis",
+    "taglink": "Ovnis/"
+  },
+  {
+    "name": "L'essentiel de la Science",
+    "taglink": "L%27essentiel%20de%20la%20Science/"
+  },
+  {
+    "name": "TirMag",
+    "taglink": "TirMag/"
+  },
+  {
+    "name": "Handball",
+    "taglink": "Handball/"
+  },
+  {
+    "name": "Cheval",
+    "taglink": "Cheval/"
+  },
+  {
+    "name": "Enquêtes",
+    "taglink": "Enqu%C3%AAtes/"
+  },
+  {
+    "name": "Paulina Spucches",
+    "taglink": "Paulina%20Spucches/"
+  },
+  {
+    "name": "Éric Giacometti",
+    "taglink": "%C3%89ric%20Giacometti/"
+  },
+  {
+    "name": "Irène Frachon",
+    "taglink": "Ir%C3%A8ne%20Frachon/"
+  },
+  {
+    "name": "François Duprat",
+    "taglink": "Fran%C3%A7ois%20Duprat/"
+  },
+  {
+    "name": "Stefano Martino",
+    "taglink": "Stefano%20Martino/"
+  },
+  {
+    "name": "Jeanne-A. Debats",
+    "taglink": "Jeanne-A.%20Debats/"
+  },
+  {
+    "name": "Les Mythics",
+    "taglink": "Les%20Mythics/"
+  },
+  {
+    "name": "Philippe Ogaki",
+    "taglink": "Philippe%20Ogaki/"
+  },
+  {
+    "name": "Patricia Lyfoung",
+    "taglink": "Patricia%20Lyfoung/"
+  },
+  {
+    "name": "Patrick Sobral",
+    "taglink": "Patrick%20Sobral/"
+  },
+  {
+    "name": "Augustin Lebon",
+    "taglink": "Augustin%20Lebon/"
+  },
+  {
+    "name": "Louise Joor",
+    "taglink": "Louise%20Joor/"
+  },
+  {
+    "name": "Sébastien Corbet",
+    "taglink": "S%C3%A9bastien%20Corbet/"
+  },
+  {
+    "name": "Pauline Djian",
+    "taglink": "Pauline%20Djian/"
+  },
+  {
+    "name": "Sins of Sinister",
+    "taglink": "Sins%20of%20Sinister/"
+  },
+  {
+    "name": "Histoires Vérité",
+    "taglink": "Histoires%20V%C3%A9rit%C3%A9/"
+  },
+  {
+    "name": "Échappée Belle",
+    "taglink": "%C3%89chapp%C3%A9e%20Belle/"
+  },
+  {
+    "name": "Air",
+    "taglink": "Air/"
+  },
+  {
+    "name": "Francis Porcel",
+    "taglink": "Francis%20Porcel/"
+  },
+  {
+    "name": "Melody",
+    "taglink": "Melody/"
+  },
+  {
+    "name": "Lylian",
+    "taglink": "Lylian/"
+  },
+  {
+    "name": "Rosalia Armenteros",
+    "taglink": "Rosalia%20Armenteros/"
+  },
+  {
+    "name": "Wouzit",
+    "taglink": "Wouzit/"
+  },
+  {
+    "name": "Dark Web",
+    "taglink": "Dark%20Web/"
+  },
+  {
+    "name": "Zeb Wells",
+    "taglink": "Zeb%20Wells/"
+  },
+  {
+    "name": "Gerry Duggan",
+    "taglink": "Gerry%20Duggan/"
+  },
+  {
+    "name": "Francesco Mortarino",
+    "taglink": "Francesco%20Mortarino/"
+  },
+  {
+    "name": "Adam Kubert",
+    "taglink": "Adam%20Kubert/"
+  },
+  {
+    "name": "Emmanuel Michalak",
+    "taglink": "Emmanuel%20Michalak/"
+  },
+  {
+    "name": "Juliette Laude",
+    "taglink": "Juliette%20Laude/"
+  },
+  {
+    "name": "A. Porot",
+    "taglink": "A.%20Porot/"
+  },
+  {
+    "name": "Patrick Deubelbeiss",
+    "taglink": "Patrick%20Deubelbeiss/"
+  },
+  {
+    "name": "Arthur Conan Doyle",
+    "taglink": "Arthur%20Conan%20Doyle/"
+  },
+  {
+    "name": "Les Grandes batailles navales",
+    "taglink": "Les%20Grandes%20batailles%20navales/"
+  },
+  {
+    "name": "Les Reines de Sang",
+    "taglink": "Les%20Reines%20de%20Sang/"
+  },
+  {
+    "name": "Arnaud Delalande",
+    "taglink": "Arnaud%20Delalande/"
+  },
+  {
+    "name": "Simona Mogavino",
+    "taglink": "Simona%20Mogavino/"
+  },
+  {
+    "name": "Carlos Gomez",
+    "taglink": "Carlos%20Gomez/"
+  },
+  {
+    "name": "Luca Saponti",
+    "taglink": "Luca%20Saponti/"
+  },
+  {
+    "name": "Black Squaw",
+    "taglink": "Black%20Squaw/"
+  },
+  {
+    "name": "Alain Henriet",
+    "taglink": "Alain%20Henriet/"
+  },
+  {
+    "name": "Tramp",
+    "taglink": "Tramp/"
+  },
+  {
+    "name": "Jean-Charles Kraehn",
+    "taglink": "Jean-Charles%20Kraehn/"
+  },
+  {
+    "name": "Roberto Zaghi",
+    "taglink": "Roberto%20Zaghi/"
+  },
+  {
+    "name": "La Forêt du temps",
+    "taglink": "La%20For%C3%AAt%20du%20temps/"
+  },
+  {
+    "name": "Tristan Roulot",
+    "taglink": "Tristan%20Roulot/"
+  },
+  {
+    "name": "Mateo Guerrero",
+    "taglink": "Mateo%20Guerrero/"
+  },
+  {
+    "name": "Sigi",
+    "taglink": "Sigi/"
+  },
+  {
+    "name": "Erik Arnoux",
+    "taglink": "Erik%20Arnoux/"
+  },
+  {
+    "name": "David Morancho",
+    "taglink": "David%20Morancho/"
+  },
+  {
+    "name": "Demain",
+    "taglink": "Demain/"
+  },
+  {
+    "name": "Leo",
+    "taglink": "Leo/"
+  },
+  {
+    "name": "Louis Alloing",
+    "taglink": "Louis%20Alloing/"
+  },
+  {
+    "name": "Rodolphe",
+    "taglink": "Rodolphe/"
+  },
+  {
+    "name": "Visages",
+    "taglink": "Visages/"
+  },
+  {
+    "name": "Nathalie Ponsard-Gutknecht",
+    "taglink": "Nathalie%20Ponsard-Gutknecht/"
+  },
+  {
+    "name": "Miceal O'Griafa",
+    "taglink": "Miceal%20O%27Griafa/"
+  },
+  {
+    "name": "Grace Ellis",
+    "taglink": "Grace%20Ellis/"
+  },
+  {
+    "name": "Hannah Templer",
+    "taglink": "Hannah%20Templer/"
+  },
+  {
+    "name": "Nicolas Beuglet",
+    "taglink": "Nicolas%20Beuglet/"
+  },
+  {
+    "name": "Pierre Makyo",
+    "taglink": "Pierre%20Makyo/"
+  },
+  {
+    "name": "Laval Ng",
+    "taglink": "Laval%20Ng/"
+  },
+  {
+    "name": "Menji",
+    "taglink": "Menji/"
+  },
+  {
+    "name": "Mathieu Demore",
+    "taglink": "Mathieu%20Demore/"
+  },
+  {
+    "name": "Fabien Grolleau",
+    "taglink": "Fabien%20Grolleau/"
+  },
+  {
+    "name": "Opération survie au collège",
+    "taglink": "Op%C3%A9ration%20survie%20au%20coll%C3%A8ge/"
+  },
+  {
+    "name": "Svetlana Chmakova",
+    "taglink": "Svetlana%20Chmakova/"
+  },
+  {
+    "name": "Pratique Auto",
+    "taglink": "Pratique%20Auto/"
+  },
+  {
+    "name": "Gabrielle",
+    "taglink": "Gabrielle/"
+  },
+  {
+    "name": "Je Décore",
+    "taglink": "Je%20D%C3%A9core/"
+  },
+  {
+    "name": "Emmanuel Roudier",
+    "taglink": "Emmanuel%20Roudier/"
+  },
+  {
+    "name": "Mario Alberti",
+    "taglink": "Mario%20Alberti/"
+  },
+  {
+    "name": "Tout Voir",
+    "taglink": "Tout%20Voir/"
+  },
+  {
+    "name": "Stéphane Servain",
+    "taglink": "St%C3%A9phane%20Servain/"
+  },
+  {
+    "name": "Laurent Gnoni",
+    "taglink": "Laurent%20Gnoni/"
+  },
+  {
+    "name": "Elia Bonetti",
+    "taglink": "Elia%20Bonetti/"
+  },
+  {
+    "name": "Thierry Démarez",
+    "taglink": "Thierry%20D%C3%A9marez/"
+  },
+  {
+    "name": "Ronan Toulhoat",
+    "taglink": "Ronan%20Toulhoat/"
+  },
+  {
+    "name": "Destination Portugal",
+    "taglink": "Destination%20Portugal/"
+  },
+  {
+    "name": "Direction Espagne",
+    "taglink": "Direction%20Espagne/"
+  },
+  {
+    "name": "Destination USA",
+    "taglink": "Destination%20USA/"
+  },
+  {
+    "name": "Direction Italie",
+    "taglink": "Direction%20Italie/"
+  },
+  {
+    "name": "Point de Vue Images du Monde",
+    "taglink": "Point%20de%20Vue%20Images%20du%20Monde/"
+  },
+  {
+    "name": "Potager Pratique",
+    "taglink": "Potager%20Pratique/"
+  },
+  {
+    "name": "Phox",
+    "taglink": "Phox/"
+  },
+  {
+    "name": "Jardiner",
+    "taglink": "Jardiner/"
+  },
+  {
+    "name": "La marche Brume",
+    "taglink": "La%20marche%20Brume/"
+  },
+  {
+    "name": "Stéphane Fert",
+    "taglink": "St%C3%A9phane%20Fert/"
+  },
+  {
+    "name": "Valentin Seiche",
+    "taglink": "Valentin%20Seiche/"
+  },
+  {
+    "name": "David Courtois",
+    "taglink": "David%20Courtois/"
+  },
+  {
+    "name": "Paolo Deplano",
+    "taglink": "Paolo%20Deplano/"
+  },
+  {
+    "name": "Livia Pastore",
+    "taglink": "Livia%20Pastore/"
+  },
+  {
+    "name": "Vincent Powell",
+    "taglink": "Vincent%20Powell/"
+  },
+  {
+    "name": "Mages",
+    "taglink": "Mages/"
+  },
+  {
+    "name": "Terres d'Arran",
+    "taglink": "Terres%20d%27Arran/"
+  },
+  {
+    "name": "Jean-Luc Istin",
+    "taglink": "Jean-Luc%20Istin/"
+  },
+  {
+    "name": "Sébastien Grenier",
+    "taglink": "S%C3%A9bastien%20Grenier/"
+  },
+  {
+    "name": "J. Nanjan",
+    "taglink": "J.%20Nanjan/"
+  },
+  {
+    "name": "Orcs & Gobelins",
+    "taglink": "Orcs%20%26%20Gobelins/"
+  },
+  {
+    "name": "L'Île du crâne",
+    "taglink": "L%27%C3%8Ele%20du%20cr%C3%A2ne/"
+  },
+  {
+    "name": "Anthony Horowitz",
+    "taglink": "Anthony%20Horowitz/"
+  },
+  {
+    "name": "Clément Lefèvre",
+    "taglink": "Cl%C3%A9ment%20Lef%C3%A8vre/"
+  },
+  {
+    "name": "Orphelins",
+    "taglink": "Orphelins/"
+  },
+  {
+    "name": "Roberto Recchioni",
+    "taglink": "Roberto%20Recchioni/"
+  },
+  {
+    "name": "Emiliano Mammucari",
+    "taglink": "Emiliano%20Mammucari/"
+  },
+  {
+    "name": "Diplomatie Internationale",
+    "taglink": "Diplomatie%20Internationale/"
+  },
+  {
+    "name": "Liberté",
+    "taglink": "Libert%C3%A9/"
+  },
+  {
+    "name": "Etienne Le Roux",
+    "taglink": "Etienne%20Le%20Roux/"
+  },
+  {
+    "name": "Jordan Mechner",
+    "taglink": "Jordan%20Mechner/"
+  },
+  {
+    "name": "Loïc Chevallier",
+    "taglink": "Lo%C3%AFc%20Chevallier/"
+  },
+  {
+    "name": "Andrea Cuneo",
+    "taglink": "Andrea%20Cuneo/"
+  },
+  {
+    "name": "Ornella Savarese",
+    "taglink": "Ornella%20Savarese/"
+  },
+  {
+    "name": "Elodie Jacquemoire",
+    "taglink": "Elodie%20Jacquemoire/"
+  },
+  {
+    "name": "Napoléon",
+    "taglink": "Napol%C3%A9on/"
+  },
+  {
+    "name": "Napoléon 1er",
+    "taglink": "Napol%C3%A9on%201er/"
+  },
+  {
+    "name": "Marie Claire Style",
+    "taglink": "Marie%20Claire%20Style/"
+  },
+  {
+    "name": "Votre Beauté",
+    "taglink": "Votre%20Beaut%C3%A9/"
+  },
+  {
+    "name": "Reines et Rois",
+    "taglink": "Reines%20et%20Rois/"
+  },
+  {
+    "name": "Spécial Dernière",
+    "taglink": "Sp%C3%A9cial%20Derni%C3%A8re/"
+  },
+  {
+    "name": "Numéro Spécial",
+    "taglink": "Num%C3%A9ro%20Sp%C3%A9cial/"
+  },
+  {
+    "name": "Onze Mondial",
+    "taglink": "Onze%20Mondial/"
+  },
+  {
+    "name": "Cyclisme",
+    "taglink": "Cyclisme/"
+  },
+  {
+    "name": "La revue du Tracteur",
+    "taglink": "La%20revue%20du%20Tracteur/"
+  },
+  {
+    "name": "L’Auto Ancienne",
+    "taglink": "L%E2%80%99Auto%20Ancienne/"
+  },
+  {
+    "name": "Jean-Baptiste Hostache",
+    "taglink": "Jean-Baptiste%20Hostache/"
+  },
+  {
+    "name": "Wishlist",
+    "taglink": "Wishlist/"
+  },
+  {
+    "name": "Ced",
+    "taglink": "Ced/"
+  },
+  {
+    "name": "Stivo",
+    "taglink": "Stivo/"
+  },
+  {
+    "name": "Keum Suk Gendry-Kim",
+    "taglink": "Keum%20Suk%20Gendry-Kim/"
+  },
+  {
+    "name": "Léa Ducré",
+    "taglink": "L%C3%A9a%20Ducr%C3%A9/"
+  },
+  {
+    "name": "Benjamin Hoguet",
+    "taglink": "Benjamin%20Hoguet/"
+  },
+  {
+    "name": "Paul Gros",
+    "taglink": "Paul%20Gros/"
+  },
+  {
+    "name": "Sylvain Cordurié",
+    "taglink": "Sylvain%20Corduri%C3%A9/"
+  },
+  {
+    "name": "Laci",
+    "taglink": "Laci/"
+  },
+  {
+    "name": "Freeway",
+    "taglink": "Freeway/"
+  },
+  {
+    "name": "Auto Sport",
+    "taglink": "Auto%20Sport/"
+  },
+  {
+    "name": "Nicolas Jarry",
+    "taglink": "Nicolas%20Jarry/"
+  },
+  {
+    "name": "Umberto Giampà",
+    "taglink": "Umberto%20Giamp%C3%A0/"
+  },
+  {
+    "name": "BRZRKR",
+    "taglink": "BRZRKR/"
+  },
+  {
+    "name": "Keanu Reeves",
+    "taglink": "Keanu%20Reeves/"
+  },
+  {
+    "name": "Matt Kindt",
+    "taglink": "Matt%20Kindt/"
+  },
+  {
+    "name": "Ron Garney",
+    "taglink": "Ron%20Garney/"
+  },
+  {
+    "name": "Bill Crabtree",
+    "taglink": "Bill%20Crabtree/"
+  },
+  {
+    "name": "Cœur Collège",
+    "taglink": "C%C5%93ur%20Coll%C3%A8ge/"
+  },
+  {
+    "name": "Maya",
+    "taglink": "Maya/"
+  },
+  {
+    "name": "Blue Wolves",
+    "taglink": "Blue%20Wolves/"
+  },
+  {
+    "name": "Tsuyoshi Yasuda",
+    "taglink": "Tsuyoshi%20Yasuda/"
+  },
+  {
+    "name": "Elizabeth Casillas",
+    "taglink": "Elizabeth%20Casillas/"
+  },
+  {
+    "name": "Higinia Garay",
+    "taglink": "Higinia%20Garay/"
+  },
+  {
+    "name": "Gastronomie du Périgord",
+    "taglink": "Gastronomie%20du%20P%C3%A9rigord/"
+  },
+  {
+    "name": "Rémi Guérin",
+    "taglink": "R%C3%A9mi%20Gu%C3%A9rin/"
+  },
+  {
+    "name": "Damour",
+    "taglink": "Damour/"
+  },
+  {
+    "name": "Manu Larcenet",
+    "taglink": "Manu%20Larcenet/"
+  },
+  {
+    "name": "Cormac McCarthy",
+    "taglink": "Cormac%20McCarthy/"
+  },
+  {
+    "name": "Valérie Weishar Giuliani",
+    "taglink": "Val%C3%A9rie%20Weishar%20Giuliani/"
+  },
+  {
+    "name": "Nina Jacqmin",
+    "taglink": "Nina%20Jacqmin/"
+  },
+  {
+    "name": "Giovanni Lorusso",
+    "taglink": "Giovanni%20Lorusso/"
+  },
+  {
+    "name": "Alex Sierra",
+    "taglink": "Alex%20Sierra/"
+  },
+  {
+    "name": "Papyrus",
+    "taglink": "Papyrus/"
+  },
+  {
+    "name": "Lucien De Gieter",
+    "taglink": "Lucien%20De%20Gieter/"
+  },
+  {
+    "name": "Philippe Chanoinat",
+    "taglink": "Philippe%20Chanoinat/"
+  },
+  {
+    "name": "David Pellet",
+    "taglink": "David%20Pellet/"
+  },
+  {
+    "name": "Miguel de Cervantès",
+    "taglink": "Miguel%20de%20Cervant%C3%A8s/"
+  },
+  {
+    "name": "Épistémè",
+    "taglink": "%C3%89pist%C3%A9m%C3%A8/"
+  },
+  {
+    "name": "Jean-Benoît Meybeck",
+    "taglink": "Jean-Beno%C3%AEt%20Meybeck/"
+  },
+  {
+    "name": "Pascal Marchand",
+    "taglink": "Pascal%20Marchand/"
+  },
+  {
+    "name": "Exit Mag",
+    "taglink": "Exit%20Mag/"
+  },
+  {
+    "name": "Construction & Bâtiment",
+    "taglink": "Construction%20%26%20B%C3%A2timent/"
+  },
+  {
+    "name": "Numéro Art",
+    "taglink": "Num%C3%A9ro%20Art/"
+  },
+  {
+    "name": "L'Étiquette Femme",
+    "taglink": "L%27%C3%89tiquette%20Femme/"
+  },
+  {
+    "name": "Sandro Masin",
+    "taglink": "Sandro%20Masin/"
+  },
+  {
+    "name": "Ladies with guns",
+    "taglink": "Ladies%20with%20guns/"
+  },
+  {
+    "name": "Anlor",
+    "taglink": "Anlor/"
+  },
+  {
+    "name": "Bots",
+    "taglink": "Bots/"
+  },
+  {
+    "name": "Steve Baker",
+    "taglink": "Steve%20Baker/"
+  },
+  {
+    "name": "Les compagnons de la Libération",
+    "taglink": "Les%20compagnons%20de%20la%20Lib%C3%A9ration/"
+  },
+  {
+    "name": "Jean-Yves Le Naour",
+    "taglink": "Jean-Yves%20Le%20Naour/"
+  },
+  {
+    "name": "Claude Plumail",
+    "taglink": "Claude%20Plumail/"
+  },
+  {
+    "name": "Théa Rojzman",
+    "taglink": "Th%C3%A9a%20Rojzman/"
+  },
+  {
+    "name": "Kyko Duarte",
+    "taglink": "Kyko%20Duarte/"
+  },
+  {
+    "name": "Bojan Vukic",
+    "taglink": "Bojan%20Vukic/"
+  },
+  {
+    "name": "Benoît Dellac",
+    "taglink": "Beno%C3%AEt%20Dellac/"
+  },
+  {
+    "name": "Pour l'Éco",
+    "taglink": "Pour%20l%27%C3%89co/"
+  },
+  {
+    "name": "L'Essentiel Porsche",
+    "taglink": "L%27Essentiel%20Porsche/"
+  },
+  {
+    "name": "Santé revue Seniors",
+    "taglink": "Sant%C3%A9%20revue%20Seniors/"
+  },
+  {
+    "name": "Le Meilleur",
+    "taglink": "Le%20Meilleur/"
+  },
+  {
+    "name": "Jour J",
+    "taglink": "Jour%20J/"
+  },
+  {
+    "name": "Jean-Pierre Pécau",
+    "taglink": "Jean-Pierre%20P%C3%A9cau/"
+  },
+  {
+    "name": "Denys",
+    "taglink": "Denys/"
+  },
+  {
+    "name": "Liberty Bessie",
+    "taglink": "Liberty%20Bessie/"
+  },
+  {
+    "name": "Vincent",
+    "taglink": "Vincent/"
+  },
+  {
+    "name": "Pierre-Roland Saint-Dizier",
+    "taglink": "Pierre-Roland%20Saint-Dizier/"
+  },
+  {
+    "name": "Réseau-Boulot-Dodo",
+    "taglink": "R%C3%A9seau-Boulot-Dodo/"
+  },
+  {
+    "name": "Fabrice Erre",
+    "taglink": "Fabrice%20Erre/"
+  },
+  {
+    "name": "Brice Goepfert",
+    "taglink": "Brice%20Goepfert/"
+  },
+  {
+    "name": "Grégory Panaccione",
+    "taglink": "Gr%C3%A9gory%20Panaccione/"
+  },
+  {
+    "name": "Asaf Anuka",
+    "taglink": "Asaf%20Anuka/"
+  },
+  {
+    "name": "Nero",
+    "taglink": "Nero/"
+  },
+  {
+    "name": "Olivier Héba",
+    "taglink": "Olivier%20H%C3%A9ba/"
+  },
+  {
+    "name": "Alessandro Bocci",
+    "taglink": "Alessandro%20Bocci/"
+  },
+  {
+    "name": "Jean Giraud",
+    "taglink": "Jean%20Giraud/"
+  },
+  {
+    "name": "Jean-Michel Charlier",
+    "taglink": "Jean-Michel%20Charlier/"
+  },
+  {
+    "name": "Daniel Pizzoli",
+    "taglink": "Daniel%20Pizzoli/"
+  },
+  {
+    "name": "Blueberry",
+    "taglink": "Blueberry/"
+  },
+  {
+    "name": "Sandra Ndiaye",
+    "taglink": "Sandra%20Ndiaye/"
+  },
+  {
+    "name": "Frédéric Debomy",
+    "taglink": "Fr%C3%A9d%C3%A9ric%20Debomy/"
+  },
+  {
+    "name": "Benjamin Adès",
+    "taglink": "Benjamin%20Ad%C3%A8s/"
+  },
+  {
+    "name": "5-15",
+    "taglink": "5-15/"
+  },
+  {
+    "name": "Forêt & Innovation",
+    "taglink": "For%C3%AAt%20%26%20Innovation/"
+  },
+  {
+    "name": "Santé+",
+    "taglink": "Sant%C3%A9%2B/"
+  },
+  {
+    "name": "France Richemond",
+    "taglink": "France%20Richemond/"
+  },
+  {
+    "name": "Germano Giorgiani",
+    "taglink": "Germano%20Giorgiani/"
+  },
+  {
+    "name": "Claudio Montalbano",
+    "taglink": "Claudio%20Montalbano/"
+  },
+  {
+    "name": "Jean-Paul Fernandez",
+    "taglink": "Jean-Paul%20Fernandez/"
+  }
+]

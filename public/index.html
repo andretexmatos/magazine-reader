@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MagzReader - Recherche</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>MagzReader</h1>
+    </header>
+    <div class="search-container">
+        <h2>Recherche</h2>
+        <input type="text" id="search" placeholder="Rechercher...">
+        <div class="suggestions" id="suggestions"></div>
+    </div>
+    <div id="results"></div>
+
+    <div id="api-key-container">
+        <select id="api-url-select">
+            <option value="https://debrid-link.com/api/v2">Debrid-Link</option>
+            <!-- Ajoutez d'autres options ici si nécessaire -->
+        </select>
+        <input type="text" id="api-key-input" placeholder="Entrez votre clé API">
+        <a href="https://debrid-link.com/webapp/apikey" target="_blank">Cliqué ici pour générer votre clé API</a>
+        <button id="save-api-key">Enregistrer la clé API</button>
+    </div>
+    <script src="js/script.js"></script>
+</body>
+</html>
