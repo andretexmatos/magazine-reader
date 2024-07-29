@@ -17,10 +17,6 @@ app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname, 'public', 'index.html'));
 });
 
-app.get('/favorites', (req, res) => {
-    res.sendFile(path.join(__dirname, 'public', 'favorites.html'));
-});
-
 app.get('/magazines.json', (req, res) => {
     res.sendFile(path.join(__dirname, 'magazines.json'));
 });
@@ -112,13 +108,18 @@ app.post('/debrid', async (req, res) => {
             res.status(500).send('An error occurred while downloading the file.');
         });
     } catch (error) {
-        console.error('Error fetching download URL:', error);
-        res.status(500).send('An error occurred while fetching download URL.');
+        if (error.response && error.response.status === 503) {
+            console.error('Service unavailable:', error.response.statusText);
+            res.status(503).send('Service is temporarily unavailable. Please try again later.');
+        } else {
+            console.error('Error fetching download URL:', error);
+            res.status(500).send('An error occurred while fetching download URL.');
+        }
     }
 });
 
 // Schedule a job to clear the downloads folder every 15 minutes
-cron.schedule('*/5 * * * *', () => {
+cron.schedule('*/15 * * * *', () => {
     const downloadsDir = path.join(__dirname, 'public', 'downloads');
 
     fs.readdir(downloadsDir, (err, files) => {
