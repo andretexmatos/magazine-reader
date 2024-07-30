@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "donito",
+      "password": "ceciestunmdp",
+      "signupDate": "2024-07-30T10:20:30.123Z",
+      "debridOptions": {
+        "debrid": "Debid-Link",
+        "debridUrl": "https://debrid-link.com/api/v2/downloader/add/",
+        "debridApiKey": "ceciestunecleapi"
+      },
+      "favrorites": [
+        "Le Monde",
+        "Stratégies",
+        "Le Figaro",
+        "Libération"
+      ]
+    },
+    {
+      "id": 2,
+      "username": "andre",
+      "password": "ceciestunmdp",
+      "signupDate": "2024-07-30T10:25:30.123Z",
+      "debridOptions": {
+        "debrid": "Debid-Link",
+        "debridUrl": "https://debrid-link.com/api/v2/downloader/add/",
+        "debridApiKey": "ceciestunecleapi"
+      },
+      "favrorites": [
+        "Le Monde",
+        "Stratégies",
+        "Le Figaro",
+        "Libération"
+      ]
+    }
+  ]
+}
