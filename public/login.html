@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MyMags - Login</title>
+    <script src="https://unpkg.com/feather-icons"></script>
+    <link
+        href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic"
+        rel="stylesheet" />
+    <link rel="stylesheet" href="css/login.css">
+</head>
+
+<body>
+    <header>
+        <i data-feather="menu"></i>
+        <h1 class="title">Mymags</h1>
+        <i data-feather="user"></i>
+    </header>
+
+    <main>
+        <h2 class="login-title">Connexion</h2>
+        <div class="form-container">
+
+            <form id="login-form">
+                <label for="" class="label-login">Nom d'utilisateur</label>
+                <input type="text" name="" id="username" placeholder="Nom d'utilisateur">
+                <br>
+                <label for="" class="label-login">Mot de passe</label>
+                <input type="password" name="" id="password" placeholder="********">
+            </form>
+            <button id="loginBtn">Se connecter</button>
+        </div>
+        <p class="no-account">Vous n'avez pas de compte ? <span class="signupBtn"><a href="/signup">S'inscrire</a></span></p>
+    </main>
+
+    <script src="js/login.js"></script>
+</body>
+
+</html>

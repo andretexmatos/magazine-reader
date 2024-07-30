@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MyMags - Home</title>
+    <link rel="stylesheet" href="css/home.css">
+    <script src="https://unpkg.com/feather-icons"></script>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic" rel="stylesheet" />
+</head>
+<body>
+    
+    <header>
+    <i data-feather="menu"></i>
+    <h1 class="title">Mymags</h1>
+    <i data-feather="user"></i>
+    </header>
+
+    <main>
+        <div class="fav-container">
+            <div class="title-fav">
+                <i data-feather="star"></i>
+                <p>Mes favoris</p>
+            </div>
+            <div class="fav-list" id="fav-list">
+                <!-- Les favoris seront insérés ici -->
+            </div>
+        </div>
+
+        <div class="suggests-container">
+            <div class="title-suggests">
+                <i data-feather="rss"></i>
+                <p>Recommandations</p>
+            </div>
+            <div class="suggests-list">
+                <div class="suggests-element">
+                    <img src="https://static.milibris.com/thumbnail/issue/f6e2498e-0e3f-44eb-91dd-24457a9e1877/front/catalog-cover-large.jpeg" alt="" class="img-suggest">
+                        <p class="suggest-title">Le Figaro</p>
+                    </img>
+                </div>
+                <div class="suggests-element">
+                    <img src="https://lmo-lmo-webreader-production.twipemobile.com/data/3924/covers/Preview-MEDIUM-267880.jpg?t=1" alt="" class="img-suggest">
+                        <p class="suggest-title">Le Monde</p>
+                    </img>
+                </div>
+                <div class="suggests-element">
+                    <img src="https://static.milibris.com/thumbnail/issue/7223e2e8-f07c-46f0-95dc-6143b38ec3b7/front/catalog-cover-large.jpeg" alt="" class="img-suggest">
+                        <p class="suggest-title">Libération</p>
+                    </img>
+                </div>
+                <div class="suggests-element">
+                    <img src="https://static.aboshop.fr/downloadservice/aboshop/s2c/products/559/covers/1.jpg?v=20240729165826" alt="" class="img-suggest">
+                        <p class="suggest-title">Stratégies</p>
+                    </img>
+                </div>
+                <div class="suggests-element">
+                    <img src="https://static.aboshop.fr/downloadservice/aboshop/s2c/products/559/covers/1.jpg?v=20240729165826" alt="" class="img-suggest">
+                        <p class="suggest-title">Stratégies</p>
+                    </img>
+                </div>
+                <div class="suggests-element">
+                    <img src="https://static.aboshop.fr/downloadservice/aboshop/s2c/products/559/covers/1.jpg?v=20240729165826" alt="" class="img-suggest">
+                        <p class="suggest-title">Stratégies</p>
+                    </img>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script>
+        feather.replace();
+    </script>
+    <script src="js/home.js"></script>
+</body>
+</html>

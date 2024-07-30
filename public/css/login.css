@@ -1,0 +1,217 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+}
+
+button {
+    font-family: 'Montserrat', sans-serif;
+}
+
+header {
+    background-color: #242424;
+    margin: 0;
+    padding: 0;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 25px;
+}
+header h1 {
+    text-transform: uppercase;
+    font-weight: 900;
+    color: white;
+    font-size: 36px;
+}
+header svg {
+    stroke: white;
+}
+
+
+main {
+    padding: 0 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.login-title {
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 60px;
+}
+#login-form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+#login-form input {
+    width: 100%;
+    height: 35px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 0.4px solid #000;
+    text-indent: 5px;
+}
+
+#login-form input::placeholder{
+    font-family: 'Montserrat',sans-serif;
+}
+
+.label-login {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-transform: uppercase;
+    margin: 5px 0;
+}
+
+.form-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+}
+
+#loginBtn {
+    border-radius: 70px;
+    background: #EF4060;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-transform: uppercase;
+    color: white;
+    height: 45px;
+    width: 150px;
+    border: none;
+    margin-top: 40px;
+}
+
+.no-account {
+    margin-top: 50px;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.signupBtn a{
+    color: #EF4060;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+@media only screen and (max-width: 600px) {
+    header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0 25px;
+    }
+
+    header h1 {
+        text-transform: uppercase;
+        font-weight: 900;
+        color: white;
+        font-size: 36px;
+    }
+
+    main {
+        padding: 0 25px;
+    }
+    .login-title {
+        font-size: 32px;
+        font-style: normal;
+        font-weight: 800;
+        line-height: normal;
+        text-transform: uppercase;
+        text-align: center;
+        margin-top: 60px;
+    }
+    
+    #login-form {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    
+    #login-form input {
+        width: 100%;
+        height: 35px;
+        font-size: 16px;
+        border-radius: 5px;
+        border: 0.4px solid #000;
+        text-indent: 5px;
+    }
+    
+    #login-form input::placeholder{
+        font-family: 'Montserrat',sans-serif;
+    }
+    
+    .label-login {
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 800;
+        line-height: normal;
+        text-transform: uppercase;
+        margin: 5px 0;
+    }
+    
+    .form-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    #loginBtn {
+        border-radius: 70px;
+        background: #EF4060;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 800;
+        line-height: normal;
+        text-transform: uppercase;
+        color: white;
+        height: 45px;
+        width: 150px;
+        border: none;
+        margin-top: 40px;
+    }
+    
+    .no-account {
+        margin-top: 50px;
+        font-size: 10px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal;
+        text-transform: uppercase;
+        text-align: center;
+    }
+    
+    .signupBtn a{
+        color: #EF4060;
+        font-size: 10px;
+        font-style: normal;
+        font-weight: 800;
+        line-height: normal;
+        text-transform: uppercase;
+        text-decoration: none;
+    }
+
+}
+
